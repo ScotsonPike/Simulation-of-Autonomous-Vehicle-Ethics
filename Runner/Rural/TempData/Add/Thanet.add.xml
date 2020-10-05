@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 08/18/20 10:38:28 by Eclipse SUMO netedit Version 1.6.0
+<configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/netconvertConfiguration.xsd">
+
+    <input>
+        <sumo-net-file value="C:\Users\Josh\Documents\Coding\University\Project\collisionTesting\Simulations\Runner\Rural\Thanet.net.xml"/>
+    </input>
+
+    <output>
+        <output-file value="C:\Users\Josh\Documents\Coding\University\Project\collisionTesting\Simulations\Runner\Rural\Thanet.net.xml"/>
+    </output>
+
+    <processing>
+        <geometry.min-radius.fix.railways value="false"/>
+        <geometry.max-grade.fix value="false"/>
+        <offset.disable-normalization value="true"/>
+        <lefthand value="true"/>
+    </processing>
+
+    <junctions>
+        <no-internal-links value="false"/>
+        <no-turnarounds value="true"/>
+        <junctions.corner-detail value="5"/>
+        <junctions.limit-turn-speed value="5.5"/>
+        <rectangular-lane-cut value="false"/>
+    </junctions>
+
+    <pedestrian>
+        <walkingareas value="true"/>
+    </pedestrian>
+
+    <netedit>
+        <additional-files value="C:\Users\Josh\Documents\Coding\University\Project\collisionTesting\Simulations\Runner\Rural\TempData\Add\Thanet.add.xml"/>
+    </netedit>
+
+    <report>
+        <aggregate-warnings value="5"/>
+    </report>
+
+</configuration>
+-->
+
+<additional xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/additional_file.xsd">
+    <busStop id="-3166205671" lane="311074716#2_1" startPos="131.13" endPos="239.13"/>
+    <busStop id="2047734188" lane="194252175#0_0" startPos="53.52" endPos="153.52" name="Minster" friendlyPos="1" lines="Ashford-Ramsgate Southeastern: London Charing Cross - Ramsgate"/>
+    <busStop id="27457103" lane="4478805#0_0" startPos="0.00" endPos="100.00" name="Minster" friendlyPos="1" lines="Southeastern: Ramsgate - London Charing Cross"/>
+    <busStop id="29045443" lane="4478806.1755_1" startPos="0.00" endPos="153.15" friendlyPos="1"/>
+    <busStop id="29785079" lane="4685713#1_0" startPos="123.49" endPos="123.59" name="White Stag" friendlyPos="1"/>
+    <busStop id="29785080" lane="4685713#1_0" startPos="123.49" endPos="123.59" name="White Stag" friendlyPos="1"/>
+    <busStop id="3166212698" lane="368956793#1.1896_1" startPos="0.00" endPos="131.05"/>
+    <busStop id="334139103" lane="30725167.251_1" startPos="0.00"/>
+    <busStop id="502559276" lane="4685711#0_0" startPos="399.60" endPos="399.70" name="Sheriffs Court Lane" friendlyPos="1"/>
+    <busStop id="502559284" lane="4685259#2_0" startPos="295.72" endPos="297.68" name="Monkton Road" friendlyPos="1"/>
+    <busStop id="busStop_-146918203#2_0_21" lane="-146918203#2_1" startPos="16.93" endPos="26.93"/>
+    <busStop id="busStop_-30890498#1_1_19" lane="-30890498#1_1" startPos="46.22" endPos="56.22"/>
+    <busStop id="busStop_-30891752#2_1_17" lane="-30891752#2_1" startPos="0.00" endPos="14.62"/>
+    <busStop id="busStop_146918203#2_0_20" lane="146918203#2_1" startPos="30.67" endPos="40.67"/>
+    <busStop id="busStop_146918207#2_1_22" lane="146918207#2_1" startPos="10.11" endPos="20.11"/>
+    <busStop id="busStop_30307302_0_14" lane="30307302_1" startPos="0.00" endPos="89.47" friendlyPos="1"/>
+    <busStop id="busStop_30890498#1_1_18" lane="30890498#1_1" startPos="41.68" endPos="51.68"/>
+    <busStop id="busStop_30891752#2_1_16" lane="30891752#2_1" startPos="0.00" endPos="13.67"/>
+    <busStop id="busStop_476429186.824_0_15" lane="476429186.824_1" startPos="0.00" endPos="33.81"/>
+    <busStop id="cantIn1" lane="-589090018#6_1" startPos="19.77" endPos="29.77"/>
+    <busStop id="cantIn10" lane="-146918203#2_1" startPos="16.93" endPos="26.93"/>
+    <busStop id="cantIn11" lane="-146918207#2_1" startPos="76.75" endPos="86.75"/>
+    <busStop id="cantIn2" lane="-607951334#0_1" startPos="18.21" endPos="28.21"/>
+    <busStop id="cantIn3" lane="-30722753#1_1" startPos="8.38" endPos="18.38"/>
+    <busStop id="cantIn4" lane="-30722758#0_1" startPos="60.47" endPos="70.47"/>
+    <busStop id="cantIn5" lane="607951329#2_1" startPos="37.45" endPos="47.45"/>
+    <busStop id="cantIn6" lane="147963754#7_1" startPos="30.52" endPos="40.52"/>
+    <busStop id="cantIn7" lane="105135740#2_1" startPos="25.48" endPos="35.48"/>
+    <busStop id="cantIn8" lane="-30891752#2_1" startPos="0.00" endPos="14.62"/>
+    <busStop id="cantIn9" lane="113224936#3_1" startPos="727.59" endPos="737.59"/>
+    <busStop id="cantOut1" lane="146918207#2_1" startPos="10.11" endPos="20.11"/>
+    <busStop id="cantOut10" lane="30722758#0_1" startPos="93.61" endPos="103.61"/>
+    <busStop id="cantOut11" lane="30722753#1_1" startPos="20.21" endPos="30.21"/>
+    <busStop id="cantOut12" lane="607951334#0_1" startPos="15.48" endPos="25.48"/>
+    <busStop id="cantOut13" lane="589090018#6_1" startPos="22.91" endPos="32.91"/>
+    <busStop id="cantOut2" lane="146918203#2_1" startPos="30.67" endPos="40.67"/>
+    <busStop id="cantOut3" lane="178155133#1_1" startPos="12.94" endPos="22.94"/>
+    <busStop id="cantOut4" lane="30890498#1_1" startPos="41.68" endPos="51.68"/>
+    <busStop id="cantOut5" lane="30891752#2_1" startPos="0.00" endPos="13.67"/>
+    <busStop id="cantOut6" lane="-105135740#2_1" startPos="24.09" endPos="34.09"/>
+    <busStop id="cantOut7" lane="105135737#5_1" startPos="117.29" endPos="127.29"/>
+    <busStop id="cantOut8" lane="23418626#1_1" startPos="152.29" endPos="162.29"/>
+    <busStop id="minIn1" lane="4684944_1" startPos="115.77" endPos="125.77"/>
+    <busStop id="minIn2" lane="167444158#9_1" startPos="165.04" endPos="175.04"/>
+    <busStop id="minIn3" lane="167444158#0_1" startPos="57.03" endPos="67.03"/>
+    <busStop id="minIn4" lane="-148180282_1" startPos="0.00" endPos="37.56"/>
+    <busStop id="minIn5" lane="2913478#12_1" startPos="25.06" endPos="35.06"/>
+    <busStop id="minIn6" lane="-30891761#1_1" startPos="29.37" endPos="39.37"/>
+    <busStop id="minIn7" lane="-44612997#1_1" startPos="65.09" endPos="75.09"/>
+    <busStop id="minIn8" lane="-137723374#6_1" startPos="29.75" endPos="39.75"/>
+    <busStop id="minIn9" lane="-589094659#1_1" startPos="15.47" endPos="25.47"/>
+    <busStop id="minOut1" lane="589094659#1_1" startPos="14.26" endPos="24.26"/>
+    <busStop id="minOut2" lane="137723374#6_1" startPos="22.55" endPos="32.55"/>
+    <busStop id="minOut3" lane="44612997#1_1" startPos="11.89" endPos="21.89"/>
+    <busStop id="minOut4" lane="30891761#1_1" startPos="16.97" endPos="26.97"/>
+    <busStop id="minOut5" lane="-196481160#0_1" startPos="72.66" endPos="82.66"/>
+    <busStop id="minOut6" lane="148180282_1" startPos="9.47" endPos="19.47"/>
+    <busStop id="minOut7" lane="-167444158#0_1" startPos="44.63" endPos="54.63"/>
+    <busStop id="minOut8" lane="-167444158#9_1" startPos="40.21" endPos="50.21"/>
+    <busStop id="minOut9" lane="-4684944_1" startPos="14.42" endPos="24.42"/>
+    <parkingArea id="parkingArea_-148181282_0_1" lane="-148181282_0" startPos="37.41" endPos="47.41"/>
+    <parkingArea id="parkingArea_-148181282_0_3" lane="-148181282_0" startPos="62.80" endPos="72.80"/>
+    <parkingArea id="parkingArea_-148181282_0_5" lane="-148181282_0" startPos="52.32" endPos="62.32"/>
+    <parkingArea id="parkingArea_-28875182#4_1_10" lane="-28875182#4_1" startPos="142.95" endPos="152.95"/>
+    <parkingArea id="parkingArea_-28875182#4_1_11" lane="-28875182#4_1" startPos="129.78" endPos="139.78"/>
+    <parkingArea id="parkingArea_-28875182#4_1_12" lane="-28875182#4_1" startPos="112.95" endPos="122.95"/>
+    <parkingArea id="parkingArea_-28875182#4_1_13" lane="-28875182#4_1" startPos="96.65" endPos="106.65"/>
+    <parkingArea id="parkingArea_-28875182#4_1_14" lane="-28875182#4_1" startPos="82.18" endPos="92.18"/>
+    <parkingArea id="parkingArea_-30725151_1_16" lane="-30725151_1" startPos="38.09" endPos="48.09"/>
+    <parkingArea id="parkingArea_-30725151_1_17" lane="-30725151_1" startPos="30.19" endPos="40.19"/>
+    <parkingArea id="parkingArea_-30725151_1_18" lane="-30725151_1" startPos="20.58" endPos="30.58"/>
+    <parkingArea id="parkingArea_-30725151_1_19" lane="-30725151_1" startPos="12.45" endPos="22.45"/>
+    <parkingArea id="parkingArea_-30743651#0_1_30" lane="-30743651#0_1" startPos="7.86" endPos="17.86"/>
+    <parkingArea id="parkingArea_-30743651#1_1_29" lane="-30743651#1_1" startPos="15.73" endPos="25.73"/>
+    <parkingArea id="parkingArea_-4685944#0_1_24" lane="-4685944#0_1" startPos="21.97" endPos="31.97"/>
+    <parkingArea id="parkingArea_-4685944#0_1_25" lane="-4685944#0_1" startPos="42.38" endPos="52.38"/>
+    <parkingArea id="parkingArea_-4685944#0_1_26" lane="-4685944#0_1" startPos="67.10" endPos="77.10"/>
+    <parkingArea id="parkingArea_-4685944#0_1_27" lane="-4685944#0_1" startPos="60.83" endPos="70.83"/>
+    <parkingArea id="parkingArea_-4685944#0_1_28" lane="-4685944#0_1" startPos="39.34" endPos="49.34"/>
+    <parkingArea id="parkingArea_148181282_0_0" lane="148181282_0" startPos="120.15" endPos="130.15"/>
+    <parkingArea id="parkingArea_148181282_0_2" lane="148181282_0" startPos="91.90" endPos="101.90"/>
+    <parkingArea id="parkingArea_148181282_0_4" lane="148181282_0" startPos="106.56" endPos="116.56"/>
+    <parkingArea id="parkingArea_30725151_1_19" lane="30725151_1" startPos="39.26" endPos="49.26"/>
+    <parkingArea id="parkingArea_30725151_1_20" lane="30725151_1" startPos="54.57" endPos="64.57"/>
+    <parkingArea id="parkingArea_30743651#0_1_31" lane="30743651#0_1" startPos="26.38" endPos="36.38"/>
+    <parkingArea id="parkingArea_30743651#1_1_32" lane="30743651#1_1" startPos="11.17" endPos="21.17"/>
+    <parkingArea id="parkingArea_4684944_1_21" lane="4684944_1" startPos="17.99" endPos="27.99"/>
+    <parkingArea id="parkingArea_4684944_1_22" lane="4684944_1" startPos="33.42" endPos="43.42"/>
+    <parkingArea id="parkingArea_4684944_1_23" lane="4684944_1" startPos="52.00" endPos="62.00"/>
+    <parkingArea id="parkingArea_gneE5_1_7" lane="gneE5_1" startPos="0.00" endPos="17.15"/>
+    <parkingArea id="parkingArea_gneE6_1_8" lane="gneE6_1" startPos="8.37" endPos="18.37"/>
+    <parkingArea id="parkingArea_gneE6_1_9" lane="gneE6_1" startPos="4.71" endPos="14.71"/>
+    <parkingArea id="parkingArea_gneE7_1_6" lane="gneE7_1" startPos="0.00" endPos="12.13"/>
+    <e1Detector id="A253_0" lane="79626890#0_1" pos="270.44" freq="3600.00" file="../Other/Thanet.out.xml"/>
+    <e1Detector id="A253_1" lane="-79626890#0_1" pos="628.93" freq="3600.00" file="../Other/Thanet.out.xml"/>
+    <e1Detector id="A299_0" lane="4568623#1_0" pos="1638.70" freq="3600.00" file="../Other/Thanet.out.xml"/>
+    <e1Detector id="A299_1" lane="4568623#1_1" pos="1637.17" freq="3600.00" file="../Other/Thanet.out.xml"/>
+    <e1Detector id="A299_2" lane="4568611#0_1" pos="18.32" freq="3600.00" file="../Other/Thanet.out.xml"/>
+    <e1Detector id="A299_3" lane="4568611#0_0" pos="18.08" freq="3600.00" file="../Other/Thanet.out.xml"/>
+    <e1Detector id="CanterburyRd_0" lane="-30890498#8_1" pos="5.39" freq="3600.00" file="../Other/Thanet.out.xml"/>
+    <e1Detector id="CanterburyRd_1" lane="30890498#8_1" pos="81.20" freq="3600.00" file="../Other/Thanet.out.xml"/>
+    <e1Detector id="SpitfireWay_1" lane="132194818#6_1" pos="439.80" freq="3600.00" file="../Other/Thanet.out.xml"/>
+    <e1Detector id="SpitfirerWay_0" lane="-132194818#6_1" pos="328.24" freq="3600.00" file="../Other/Thanet.out.xml"/>
+</additional>

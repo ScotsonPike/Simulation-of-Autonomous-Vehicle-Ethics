@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 08/20/20 13:02:52 by Eclipse SUMO duarouter Version 1.6.0
+<configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/duarouterConfiguration.xsd">
+
+    <input>
+        <net-file value="Thanet.net.xml"/>
+        <route-files value="TempData/Rou/bike.trip.xml"/>
+    </input>
+
+    <output>
+        <output-file value="TempData/Rou/bike.trip.xml.tmp"/>
+        <write-trips value="true"/>
+    </output>
+
+    <time>
+        <begin value="0"/>
+        <end value="5000"/>
+    </time>
+
+    <report>
+        <no-warnings value="true"/>
+        <ignore-errors value="true"/>
+        <no-step-log value="true"/>
+    </report>
+
+</configuration>
+-->
+
+<routes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/routes_file.xsd">
+    <vType id="bik_bicycle" vClass="bicycle"/>
+    <trip id="bik0" type="bik_bicycle" depart="0.00" from="147963763#1" to="167444158#2"/>
+    <trip id="bik1" type="bik_bicycle" depart="30.00" from="-30890920#1" to="30890736"/>
+    <trip id="bik2" type="bik_bicycle" depart="60.00" from="-30892741#0" to="4685499#3"/>
+    <trip id="bik4" type="bik_bicycle" depart="120.00" from="30195472#0" to="-28875182#9"/>
+    <trip id="bik5" type="bik_bicycle" depart="150.00" from="78626865" to="4590653#1"/>
+    <trip id="bik6" type="bik_bicycle" depart="180.00" from="132194832#2" to="-4685832"/>
+    <trip id="bik7" type="bik_bicycle" depart="210.00" from="-30693126#0" to="-26980271#1"/>
+    <trip id="bik8" type="bik_bicycle" depart="240.00" from="-589094661#1" to="4592771#4"/>
+    <trip id="bik10" type="bik_bicycle" depart="300.00" from="-4685776" to="-30890737#0"/>
+    <trip id="bik11" type="bik_bicycle" depart="330.00" from="-30890516#1" to="-30859341#0"/>
+    <trip id="bik13" type="bik_bicycle" depart="390.00" from="30890510" to="-158666420"/>
+    <trip id="bik14" type="bik_bicycle" depart="420.00" from="-169079318#2" to="43998845#1"/>
+    <trip id="bik15" type="bik_bicycle" depart="450.00" from="4592712#0" to="30890743#1"/>
+    <trip id="bik16" type="bik_bicycle" depart="480.00" from="4685500#0" to="4592779#0"/>
+    <trip id="bik17" type="bik_bicycle" depart="510.00" from="30693121#0" to="-4685976#2"/>
+    <trip id="bik18" type="bik_bicycle" depart="540.00" from="-146925973#7" to="-4685809"/>
+    <trip id="bik20" type="bik_bicycle" depart="600.00" from="-4592771#5" to="-30892938#1"/>
+    <trip id="bik21" type="bik_bicycle" depart="630.00" from="-28875182#10" to="-30892939"/>
+    <trip id="bik22" type="bik_bicycle" depart="660.00" from="-4596548#4" to="30195361"/>
+    <trip id="bik23" type="bik_bicycle" depart="690.00" from="607951333#1" to="-23708051#7"/>
+    <trip id="bik26" type="bik_bicycle" depart="780.00" from="-30890743#1" to="-116827104#1"/>
+    <trip id="bik27" type="bik_bicycle" depart="810.00" from="4590624#2" to="-4685844"/>
+    <trip id="bik29" type="bik_bicycle" depart="870.00" from="-79680756#4" to="-27675182"/>
+    <trip id="bik31" type="bik_bicycle" depart="930.00" from="8149412#1" to="-30725336#0"/>
+    <trip id="bik32" type="bik_bicycle" depart="960.00" from="-30890503#0" to="164439575#2"/>
+    <trip id="bik33" type="bik_bicycle" depart="990.00" from="30745969#0" to="-30858613#3"/>
+    <trip id="bik34" type="bik_bicycle" depart="1020.00" from="-168550597#20" to="-80497350#0"/>
+    <trip id="bik35" type="bik_bicycle" depart="1050.00" from="-30727242#0" to="-4592779#7"/>
+    <trip id="bik36" type="bik_bicycle" depart="1080.00" from="-80497348#1" to="4685229#5"/>
+    <trip id="bik37" type="bik_bicycle" depart="1110.00" from="-4590624#1" to="27631286#0"/>
+    <trip id="bik40" type="bik_bicycle" depart="1200.00" from="-154099318#3" to="4685809"/>
+    <trip id="bik41" type="bik_bicycle" depart="1230.00" from="-30706105#3" to="30451753#0"/>
+    <trip id="bik42" type="bik_bicycle" depart="1260.00" from="4687990#1" to="30880449#14"/>
+    <trip id="bik43" type="bik_bicycle" depart="1290.00" from="8265340#3" to="167444149#4"/>
+    <trip id="bik44" type="bik_bicycle" depart="1320.00" from="30727264#1" to="30858611"/>
+    <trip id="bik45" type="bik_bicycle" depart="1350.00" from="-168550597#5" to="-4685047#0"/>
+    <trip id="bik46" type="bik_bicycle" depart="1380.00" from="42969214#1" to="118447651#1"/>
+    <trip id="bik50" type="bik_bicycle" depart="1500.00" from="4590615" to="-372945895#9"/>
+    <trip id="bik51" type="bik_bicycle" depart="1530.00" from="30722745#0" to="52453417#2"/>
+    <trip id="bik52" type="bik_bicycle" depart="1560.00" from="147963772" to="43998839"/>
+    <trip id="bik53" type="bik_bicycle" depart="1590.00" from="4596561#4" to="30745970"/>
+    <trip id="bik55" type="bik_bicycle" depart="1650.00" from="30891984#8" to="27631290#4"/>
+    <trip id="bik58" type="bik_bicycle" depart="1740.00" from="118436717#10" to="30745959#0"/>
+    <trip id="bik59" type="bik_bicycle" depart="1770.00" from="-148181279#1" to="-147963764#1"/>
+    <trip id="bik60" type="bik_bicycle" depart="1800.00" from="30745961#0" to="78626866#5"/>
+    <trip id="bik61" type="bik_bicycle" depart="1830.00" from="30727278#1" to="-4596662#3"/>
+    <trip id="bik62" type="bik_bicycle" depart="1860.00" from="-30889382" to="23708051#17"/>
+    <trip id="bik65" type="bik_bicycle" depart="1950.00" from="4685853#4" to="30858601"/>
+    <trip id="bik66" type="bik_bicycle" depart="1980.00" from="-30890928" to="-4684946#2"/>
+    <trip id="bik67" type="bik_bicycle" depart="2010.00" from="30740950#1" to="118447650#1"/>
+    <trip id="bik68" type="bik_bicycle" depart="2040.00" from="-4596626#3" to="-118436717#12"/>
+    <trip id="bik69" type="bik_bicycle" depart="2070.00" from="-30722746" to="30693118#1"/>
+    <trip id="bik70" type="bik_bicycle" depart="2100.00" from="30892948#3" to="-167444158#0"/>
+    <trip id="bik71" type="bik_bicycle" depart="2130.00" from="30727268#0" to="131722288#0"/>
+    <trip id="bik72" type="bik_bicycle" depart="2160.00" from="30745954#0" to="-23707769#9"/>
+    <trip id="bik73" type="bik_bicycle" depart="2190.00" from="147963764#1" to="118447650#0"/>
+    <trip id="bik74" type="bik_bicycle" depart="2220.00" from="43998852" to="28875182#15"/>
+    <trip id="bik75" type="bik_bicycle" depart="2250.00" from="-118327236#1" to="23708051#10"/>
+    <trip id="bik77" type="bik_bicycle" depart="2310.00" from="-30744172#1" to="30852198"/>
+    <trip id="bik78" type="bik_bicycle" depart="2340.00" from="-30743647" to="-4685158#1"/>
+    <trip id="bik79" type="bik_bicycle" depart="2370.00" from="28875183" to="30254255#0"/>
+    <trip id="bik80" type="bik_bicycle" depart="2400.00" from="-147443699#2" to="4685139#2"/>
+    <trip id="bik83" type="bik_bicycle" depart="2490.00" from="-30693126#1" to="-105135295#3"/>
+    <trip id="bik84" type="bik_bicycle" depart="2520.00" from="-4685374#2" to="-25501705#1"/>
+    <trip id="bik85" type="bik_bicycle" depart="2550.00" from="-167444146#0" to="-281109619#9"/>
+    <trip id="bik87" type="bik_bicycle" depart="2610.00" from="-4592708#2" to="4596552"/>
+    <trip id="bik88" type="bik_bicycle" depart="2640.00" from="-8434912" to="-30745961#2"/>
+    <trip id="bik91" type="bik_bicycle" depart="2730.00" from="-179459654" to="-148181279#0"/>
+    <trip id="bik93" type="bik_bicycle" depart="2790.00" from="-30727286#1" to="-43998904#3"/>
+    <trip id="bik95" type="bik_bicycle" depart="2850.00" from="-8149539#1" to="4685391#1"/>
+    <trip id="bik96" type="bik_bicycle" depart="2880.00" from="118436710#4" to="4590603#3"/>
+    <trip id="bik97" type="bik_bicycle" depart="2910.00" from="-4590598#6" to="30727266#1"/>
+    <trip id="bik98" type="bik_bicycle" depart="2940.00" from="27631290#4" to="-68870743#1"/>
+    <trip id="bik99" type="bik_bicycle" depart="2970.00" from="-30738926#0" to="30890516#0"/>
+    <trip id="bik100" type="bik_bicycle" depart="3000.00" from="-132194818#6" to="-118436717#7"/>
+    <trip id="bik101" type="bik_bicycle" depart="3030.00" from="-118447664#0" to="30880449#6"/>
+    <trip id="bik103" type="bik_bicycle" depart="3090.00" from="-118969537#1" to="147963764#0"/>
+    <trip id="bik104" type="bik_bicycle" depart="3120.00" from="-25501825#11" to="8265340#3"/>
+    <trip id="bik105" type="bik_bicycle" depart="3150.00" from="4594090#2" to="30860145#0"/>
+    <trip id="bik106" type="bik_bicycle" depart="3180.00" from="164439575#1" to="-85692860#1"/>
+    <trip id="bik107" type="bik_bicycle" depart="3210.00" from="30738611#2" to="-4592771#2"/>
+    <trip id="bik108" type="bik_bicycle" depart="3240.00" from="-4596545#1" to="4590619#0"/>
+    <trip id="bik110" type="bik_bicycle" depart="3300.00" from="4592770#1" to="27631264#0"/>
+    <trip id="bik111" type="bik_bicycle" depart="3330.00" from="42969212#3" to="147950009#3"/>
+    <trip id="bik113" type="bik_bicycle" depart="3390.00" from="30880464#0" to="-105135295#5"/>
+    <trip id="bik115" type="bik_bicycle" depart="3450.00" from="30727283" to="105180654#0"/>
+    <trip id="bik116" type="bik_bicycle" depart="3480.00" from="25501705#2" to="147963764#5"/>
+    <trip id="bik117" type="bik_bicycle" depart="3510.00" from="30725154#1" to="-43998904#2"/>
+    <trip id="bik118" type="bik_bicycle" depart="3540.00" from="164439572#2" to="-179363716#4"/>
+    <trip id="bik119" type="bik_bicycle" depart="3570.00" from="-589094661#1" to="-118436717#8"/>
+    <trip id="bik120" type="bik_bicycle" depart="3600.00" from="-30890920#1" to="-30889398#0"/>
+    <trip id="bik122" type="bik_bicycle" depart="3660.00" from="30727274#0" to="-4685768"/>
+    <trip id="bik123" type="bik_bicycle" depart="3690.00" from="-30812826#2" to="-30890517#1"/>
+    <trip id="bik124" type="bik_bicycle" depart="3720.00" from="167444158#8" to="-27631316#2"/>
+    <trip id="bik125" type="bik_bicycle" depart="3750.00" from="-160026652" to="116827106#3"/>
+    <trip id="bik126" type="bik_bicycle" depart="3780.00" from="-4685410" to="-30890921#1"/>
+    <trip id="bik127" type="bik_bicycle" depart="3810.00" from="30892740#0" to="-4592790#0"/>
+    <trip id="bik128" type="bik_bicycle" depart="3840.00" from="607951325" to="80497348#1"/>
+    <trip id="bik129" type="bik_bicycle" depart="3870.00" from="-169078268#1" to="-30893057"/>
+    <trip id="bik130" type="bik_bicycle" depart="3900.00" from="25501825#8" to="-52157814#3"/>
+    <trip id="bik131" type="bik_bicycle" depart="3930.00" from="-30738611#1" to="154099319#5"/>
+    <trip id="bik133" type="bik_bicycle" depart="3990.00" from="-4590617#1" to="4685750"/>
+    <trip id="bik134" type="bik_bicycle" depart="4020.00" from="26980271#2" to="30860138#5"/>
+    <trip id="bik137" type="bik_bicycle" depart="4110.00" from="-30812826#0" to="30891984#3"/>
+    <trip id="bik139" type="bik_bicycle" depart="4170.00" from="4685712#8" to="-25501705#2"/>
+    <trip id="bik140" type="bik_bicycle" depart="4200.00" from="4592779#7" to="-167444149#2"/>
+    <trip id="bik142" type="bik_bicycle" depart="4260.00" from="4596545#8" to="-43998845#4"/>
+    <trip id="bik144" type="bik_bicycle" depart="4320.00" from="-30858617" to="-25501825#0"/>
+    <trip id="bik145" type="bik_bicycle" depart="4350.00" from="-30859352#0" to="-33732297"/>
+    <trip id="bik146" type="bik_bicycle" depart="4380.00" from="30893058#2" to="30893053"/>
+    <trip id="bik147" type="bik_bicycle" depart="4410.00" from="-4593200#1" to="281109619#3"/>
+    <trip id="bik148" type="bik_bicycle" depart="4440.00" from="30853489#6" to="-78626866#8"/>
+    <trip id="bik149" type="bik_bicycle" depart="4470.00" from="-30740855#1" to="-30890535#0"/>
+    <trip id="bik151" type="bik_bicycle" depart="4530.00" from="147963764#4" to="-25501824#1"/>
+    <trip id="bik153" type="bik_bicycle" depart="4590.00" from="-147963763#2" to="23707785#6"/>
+    <trip id="bik154" type="bik_bicycle" depart="4620.00" from="-4592747" to="4590615"/>
+    <trip id="bik155" type="bik_bicycle" depart="4650.00" from="30727278#1" to="146925973#0"/>
+    <trip id="bik156" type="bik_bicycle" depart="4680.00" from="30738937#1" to="-589090027#1"/>
+    <trip id="bik159" type="bik_bicycle" depart="4770.00" from="30725158" to="30195362#3"/>
+    <trip id="bik160" type="bik_bicycle" depart="4800.00" from="-30890920#1" to="-30889389#0"/>
+    <trip id="bik161" type="bik_bicycle" depart="4830.00" from="-43998860#0" to="179318680"/>
+    <trip id="bik162" type="bik_bicycle" depart="4860.00" from="-30890516#4" to="-147963769#0"/>
+    <trip id="bik163" type="bik_bicycle" depart="4890.00" from="-68870738#0" to="4685072#0"/>
+    <trip id="bik166" type="bik_bicycle" depart="4980.00" from="4685853#2" to="-4590607#2"/>
+</routes>

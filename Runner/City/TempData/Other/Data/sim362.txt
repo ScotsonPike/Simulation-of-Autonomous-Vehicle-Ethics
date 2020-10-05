@@ -1,0 +1,12 @@
+2020-08-12 11:14:53.035286
+ 
+Total Sim Time: 205.38293719291687
+Fitness       : 0.6
+
+Total Warnings: 3
+Teleports     : 4
+Collisions    : 0
+
+Warning: Vehicle 'veh1667' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=1913.00.
+Warning: Vehicle 'veh2026' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=2287.00.
+Warning: Vehicle 'veh2838' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=3207.00.

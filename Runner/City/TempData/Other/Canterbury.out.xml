@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 09/07/20 10:07:02 by Eclipse SUMO GUI Version 1.6.0
+<configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/sumoConfiguration.xsd">
+
+    <input>
+        <net-file value="C:\Users\Josh\Documents\Coding\University\Project\collisionTesting\Corpus\Runner\City\Canterbury.net.xml"/>
+        <route-files value="C:\Users\Josh\Documents\Coding\University\Project\collisionTesting\Corpus\Runner\City\TempData/Rou/vehicle.trip.xml,C:\Users\Josh\Documents\Coding\University\Project\collisionTesting\Corpus\Runner\City\TempData/Rou/pCar.trip.xml,C:\Users\Josh\Documents\Coding\University\Project\collisionTesting\Corpus\Runner\City\TempData/Rou/truck.trip.xml,C:\Users\Josh\Documents\Coding\University\Project\collisionTesting\Corpus\Runner\City\TempData/Rou/lorry.trip.xml,C:\Users\Josh\Documents\Coding\University\Project\collisionTesting\Corpus\Runner\City\TempData/Rou/motorcycle.trip.xml,C:\Users\Josh\Documents\Coding\University\Project\collisionTesting\Corpus\Runner\City\TempData/Rou/pt.rou.xml,C:\Users\Josh\Documents\Coding\University\Project\collisionTesting\Corpus\Runner\City\TempData/Rou/pt2.rou.xml,C:\Us-->
+
+<detector xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/det_e1_file.xsd">
+    <interval begin="0.00" end="2172.00" id="A257_0" nVehContrib="161" flow="266.85" occupancy="3.92" speed="10.67" harmonicMeanSpeed="9.57" length="5.09" nVehEntered="161"/>
+    <interval begin="0.00" end="2172.00" id="A257_1" nVehContrib="30" flow="49.72" occupancy="0.70" speed="12.38" harmonicMeanSpeed="12.19" length="6.15" nVehEntered="30"/>
+    <interval begin="0.00" end="2172.00" id="A257_2" nVehContrib="93" flow="154.14" occupancy="1.79" speed="12.69" harmonicMeanSpeed="12.56" length="5.27" nVehEntered="93"/>
+    <interval begin="0.00" end="2172.00" id="A257_3" nVehContrib="273" flow="452.49" occupancy="6.66" speed="11.33" harmonicMeanSpeed="9.47" length="5.04" nVehEntered="273"/>
+    <interval begin="0.00" end="2172.00" id="A290_0" nVehContrib="230" flow="381.22" occupancy="3.40" speed="16.85" harmonicMeanSpeed="16.72" length="5.39" nVehEntered="231"/>
+    <interval begin="0.00" end="2172.00" id="A290_1" nVehContrib="103" flow="170.72" occupancy="1.45" speed="16.72" harmonicMeanSpeed="16.15" length="4.97" nVehEntered="103"/>
+    <interval begin="0.00" end="2172.00" id="A290_2" nVehContrib="313" flow="518.78" occupancy="4.71" speed="16.40" harmonicMeanSpeed="15.53" length="5.02" nVehEntered="313"/>
+    <interval begin="0.00" end="2172.00" id="A290_3" nVehContrib="44" flow="72.93" occupancy="0.87" speed="15.99" harmonicMeanSpeed="15.52" length="5.58" nVehEntered="53"/>
+    <interval begin="0.00" end="2172.00" id="A290_4" nVehContrib="228" flow="377.90" occupancy="5.52" speed="10.64" harmonicMeanSpeed="10.19" length="5.30" nVehEntered="228"/>
+    <interval begin="0.00" end="2172.00" id="A290_5" nVehContrib="288" flow="477.35" occupancy="6.99" speed="10.99" harmonicMeanSpeed="9.33" length="4.97" nVehEntered="288"/>
+    <interval begin="0.00" end="2172.00" id="BroadStreet0" nVehContrib="199" flow="329.83" occupancy="5.80" speed="8.95" harmonicMeanSpeed="8.52" length="5.36" nVehEntered="199"/>
+    <interval begin="0.00" end="2172.00" id="BroadStreet1" nVehContrib="126" flow="208.84" occupancy="2.58" speed="11.44" harmonicMeanSpeed="11.12" length="4.94" nVehEntered="126"/>
+    <interval begin="0.00" end="2172.00" id="UpperBridgeStreet0" nVehContrib="178" flow="295.03" occupancy="4.44" speed="10.74" harmonicMeanSpeed="9.71" length="5.23" nVehEntered="178"/>
+    <interval begin="0.00" end="2172.00" id="UpperBridgeStreet1" nVehContrib="243" flow="402.76" occupancy="6.33" speed="10.47" harmonicMeanSpeed="9.81" length="5.30" nVehEntered="245"/>
+    <interval begin="0.00" end="2172.00" id="UpperBridgeStreet3" nVehContrib="65" flow="107.73" occupancy="1.39" speed="11.52" harmonicMeanSpeed="11.04" length="5.14" nVehEntered="65"/>
+    <interval begin="0.00" end="2172.00" id="UpperBrigdeStreet4" nVehContrib="201" flow="333.15" occupancy="4.26" speed="11.34" harmonicMeanSpeed="11.19" length="5.09" nVehEntered="204"/>
+</detector>
+y="0.42" speed="10.61" harmonicMeanSpeed="10.61" length="5.00" nVehEntered="1"/>
+    <interval begin="0.00" end="112.00" id="BroadStreet1" nVehContrib="2" flow="64.29" occupancy="0.76" speed="11.80" harmonicMeanSpeed="11.73" length="5.00" nVehEntered="2"/>
+    <interval begin="0.00" end="112.00" id="UpperBridgeStreet0" nVehContrib="0" flow="0.00" occupancy="0.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
+    <interval begin="0.00" end="112.00" id="UpperBridgeStreet1" nVehContrib="3" flow="96.43" occupancy="1.20" speed="11.33" harmonicMeanSpeed="11.20" length="5.00" nVehEntered="3"/>
+    <interval begin="0.00" end="112.00" id="UpperBridgeStreet3" nVehContrib="0" flow="0.00" occupancy="0.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
+    <interval begin="0.00" end="112.00" id="UpperBrigdeStreet4" nVehContrib="0" flow="0.00" occupancy="0.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
+</detector>

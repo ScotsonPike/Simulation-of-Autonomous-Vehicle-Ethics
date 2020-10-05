@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 08/20/20 20:14:53 by Eclipse SUMO duarouter Version 1.6.0
+<configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/duarouterConfiguration.xsd">
+
+    <input>
+        <net-file value="Canterbury.net.xml"/>
+        <route-files value="TempData/Rou/moped.trip.xml"/>
+    </input>
+
+    <output>
+        <output-file value="TempData/Rou/moped.trip.xml.tmp"/>
+        <write-trips value="true"/>
+    </output>
+
+    <time>
+        <begin value="0"/>
+        <end value="5000"/>
+    </time>
+
+    <report>
+        <no-warnings value="true"/>
+        <ignore-errors value="true"/>
+        <no-step-log value="true"/>
+    </report>
+
+</configuration>
+-->
+
+<routes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/routes_file.xsd">
+    <vType id="moped_moped" vClass="moped"/>
+    <trip id="moped0" type="moped_moped" depart="0.00" from="-4564729#6" to="-gneE73"/>
+    <trip id="moped1" type="moped_moped" depart="30.00" from="-23463477#3" to="4476056#1"/>
+    <trip id="moped2" type="moped_moped" depart="60.00" from="4354121#9" to="9636284#11"/>
+    <trip id="moped3" type="moped_moped" depart="90.00" from="23553046#6" to="168593243"/>
+    <trip id="moped4" type="moped_moped" depart="120.00" from="-4711116#3" to="9636284#7"/>
+    <trip id="moped5" type="moped_moped" depart="150.00" from="116500355#1" to="-168605550"/>
+    <trip id="moped6" type="moped_moped" depart="180.00" from="-4479957" to="4412474#2"/>
+    <trip id="moped7" type="moped_moped" depart="210.00" from="4451641#2" to="-4515421#1"/>
+    <trip id="moped8" type="moped_moped" depart="240.00" from="4515405#0" to="-23457569#0"/>
+    <trip id="moped9" type="moped_moped" depart="270.00" from="-4575916#0" to="4607365"/>
+    <trip id="moped10" type="moped_moped" depart="300.00" from="-4573155" to="-209528482#1"/>
+    <trip id="moped11" type="moped_moped" depart="330.00" from="4079441#0" to="-4573166"/>
+    <trip id="moped12" type="moped_moped" depart="360.00" from="-23568152#3" to="4355893#5"/>
+    <trip id="moped13" type="moped_moped" depart="390.00" from="-4607344#2" to="-4411334#1"/>
+    <trip id="moped14" type="moped_moped" depart="420.00" from="23463426" to="-4451964#1"/>
+    <trip id="moped15" type="moped_moped" depart="450.00" from="4575938#5" to="32898712#2"/>
+    <trip id="moped16" type="moped_moped" depart="480.00" from="4419377#0" to="4476027#2"/>
+    <trip id="moped17" type="moped_moped" depart="510.00" from="4354122#2" to="-204783122#11"/>
+    <trip id="moped18" type="moped_moped" depart="540.00" from="4476117#2" to="635745280"/>
+    <trip id="moped19" type="moped_moped" depart="570.00" from="-4452481#1" to="-168593243"/>
+    <trip id="moped20" type="moped_moped" depart="600.00" from="4451640#1" to="643124716"/>
+    <trip id="moped21" type="moped_moped" depart="630.00" from="223015910#1" to="4607366#7"/>
+    <trip id="moped22" type="moped_moped" depart="660.00" from="-30917547#0" to="4079463#2"/>
+    <trip id="moped23" type="moped_moped" depart="690.00" from="-151654549" to="4079420#5"/>
+    <trip id="moped24" type="moped_moped" depart="720.00" from="4607361" to="4451470"/>
+    <trip id="moped25" type="moped_moped" depart="750.00" from="-4515423" to="4476186#0"/>
+    <trip id="moped26" type="moped_moped" depart="780.00" from="-4515418#4" to="-4607367#0"/>
+    <trip id="moped27" type="moped_moped" depart="810.00" from="-4451389#2" to="-gneE126"/>
+    <trip id="moped28" type="moped_moped" depart="840.00" from="4419378" to="23568152#0"/>
+    <trip id="moped29" type="moped_moped" depart="870.00" from="606257350#1" to="4575942#2"/>
+    <trip id="moped30" type="moped_moped" depart="900.00" from="4564729#0" to="16811953#3"/>
+    <trip id="moped31" type="moped_moped" depart="930.00" from="-4515438#1" to="-145398963#2"/>
+    <trip id="moped32" type="moped_moped" depart="960.00" from="4476016#0" to="-4432057#0"/>
+    <trip id="moped33" type="moped_moped" depart="990.00" from="-16790454#1" to="-16782125#1"/>
+    <trip id="moped34" type="moped_moped" depart="1020.00" from="-23568152#3" to="26322686"/>
+    <trip id="moped35" type="moped_moped" depart="1050.00" from="23553046#3" to="116500357"/>
+    <trip id="moped36" type="moped_moped" depart="1080.00" from="4711232#0" to="-63033592#1"/>
+    <trip id="moped37" type="moped_moped" depart="1110.00" from="-4607363#0" to="-gneE11"/>
+    <trip id="moped38" type="moped_moped" depart="1140.00" from="179319748#0" to="316573936#0"/>
+    <trip id="moped39" type="moped_moped" depart="1170.00" from="-32431238#1" to="-4476117#1"/>
+    <trip id="moped40" type="moped_moped" depart="1200.00" from="4607350" to="4414264#0"/>
+    <trip id="moped41" type="moped_moped" depart="1230.00" from="-631626600" to="76744851"/>
+    <trip id="moped42" type="moped_moped" depart="1260.00" from="-4607379" to="-4515414"/>
+    <trip id="moped43" type="moped_moped" depart="1290.00" from="-gneE63" to="120300018"/>
+    <trip id="moped44" type="moped_moped" depart="1320.00" from="4515418#5" to="4476814#6"/>
+    <trip id="moped45" type="moped_moped" depart="1350.00" from="-4476016#2" to="-4476126#2"/>
+    <trip id="moped46" type="moped_moped" depart="1380.00" from="-4451964#3" to="4451472"/>
+    <trip id="moped47" type="moped_moped" depart="1410.00" from="16782125#2" to="4451396#2"/>
+    <trip id="moped48" type="moped_moped" depart="1440.00" from="164596209#1" to="4079420#1"/>
+    <trip id="moped49" type="moped_moped" depart="1470.00" from="4476027#1" to="4452063#0"/>
+    <trip id="moped50" type="moped_moped" depart="1500.00" from="-23568152#0" to="15541963#2"/>
+    <trip id="moped51" type="moped_moped" depart="1530.00" from="4534377#1" to="156461530#0"/>
+    <trip id="moped52" type="moped_moped" depart="1560.00" from="-4617651#0" to="4433583#4"/>
+    <trip id="moped53" type="moped_moped" depart="1590.00" from="-4451894#0" to="4515431#4"/>
+    <trip id="moped54" type="moped_moped" depart="1620.00" from="61051435#0" to="4421492#1"/>
+    <trip id="moped55" type="moped_moped" depart="1650.00" from="4476121" to="-4573122#0"/>
+    <trip id="moped56" type="moped_moped" depart="1680.00" from="-23457746#0" to="-4607366#5"/>
+    <trip id="moped57" type="moped_moped" depart="1710.00" from="-120878503#0" to="4475859#1"/>
+    <trip id="moped58" type="moped_moped" depart="1740.00" from="-4452669#0" to="4476016#3"/>
+    <trip id="moped59" type="moped_moped" depart="1770.00" from="-4419346#1" to="-4355893#8"/>
+    <trip id="moped60" type="moped_moped" depart="1800.00" from="4573143#1" to="-4573078#1"/>
+    <trip id="moped61" type="moped_moped" depart="1830.00" from="4515440" to="23242154#2"/>
+    <trip id="moped62" type="moped_moped" depart="1860.00" from="301567630#1" to="-4607333#1"/>
+    <trip id="moped63" type="moped_moped" depart="1890.00" from="4079439#3" to="4451397#6"/>
+    <trip id="moped64" type="moped_moped" depart="1920.00" from="4476122#0" to="-223015909#0"/>
+    <trip id="moped65" type="moped_moped" depart="1950.00" from="-4515411#3" to="4607348#1"/>
+    <trip id="moped66" type="moped_moped" depart="1980.00" from="119307725" to="-156461530#3"/>
+    <trip id="moped67" type="moped_moped" depart="2010.00" from="4412551" to="4354121#3"/>
+    <trip id="moped68" type="moped_moped" depart="2040.00" from="4419357" to="-4437568"/>
+    <trip id="moped69" type="moped_moped" depart="2070.00" from="-4575916#0" to="-4617651#3"/>
+    <trip id="moped70" type="moped_moped" depart="2100.00" from="-42701219#1" to="-4452064#0"/>
+    <trip id="moped71" type="moped_moped" depart="2130.00" from="4419347" to="4621094#0"/>
+    <trip id="moped72" type="moped_moped" depart="2160.00" from="-4573078#1" to="-gneE121"/>
+    <trip id="moped73" type="moped_moped" depart="2190.00" from="-4607330#1" to="204783122#0"/>
+    <trip id="moped74" type="moped_moped" depart="2220.00" from="-120879755#0" to="165379931"/>
+    <trip id="moped75" type="moped_moped" depart="2250.00" from="-4515480#1" to="-9636284#7"/>
+    <trip id="moped76" type="moped_moped" depart="2280.00" from="635745282" to="4079420#6"/>
+    <trip id="moped77" type="moped_moped" depart="2310.00" from="-4607335#4" to="4575919"/>
+    <trip id="moped78" type="moped_moped" depart="2340.00" from="-25597611" to="-4355893#3"/>
+    <trip id="moped79" type="moped_moped" depart="2370.00" from="-317479995#0" to="4452063#0"/>
+    <trip id="moped80" type="moped_moped" depart="2400.00" from="592364948" to="-4573069#1"/>
+    <trip id="moped81" type="moped_moped" depart="2430.00" from="4079439#2" to="4476020#0"/>
+    <trip id="moped82" type="moped_moped" depart="2460.00" from="-196204771#0" to="4412467#6"/>
+    <trip id="moped83" type="moped_moped" depart="2490.00" from="-145398963#6" to="4354122#3"/>
+    <trip id="moped84" type="moped_moped" depart="2520.00" from="-4419376#2" to="-4607327"/>
+    <trip id="moped85" type="moped_moped" depart="2550.00" from="15460218#1" to="-9636284#12"/>
+    <trip id="moped86" type="moped_moped" depart="2580.00" from="222616094#6" to="-4607337#1"/>
+    <trip id="moped87" type="moped_moped" depart="2610.00" from="241711486" to="4515497#2"/>
+    <trip id="moped88" type="moped_moped" depart="2640.00" from="-23463477#1" to="-244434400"/>
+    <trip id="moped89" type="moped_moped" depart="2670.00" from="4711210#2" to="4412552"/>
+    <trip id="moped90" type="moped_moped" depart="2700.00" from="141039426" to="615297244"/>
+    <trip id="moped91" type="moped_moped" depart="2730.00" from="241699177" to="4475856#3"/>
+    <trip id="moped92" type="moped_moped" depart="2760.00" from="-4607337#1" to="-4412467#1"/>
+    <trip id="moped93" type="moped_moped" depart="2790.00" from="139536447" to="4573109#0"/>
+    <trip id="moped94" type="moped_moped" depart="2820.00" from="4575871" to="-23457526"/>
+    <trip id="moped95" type="moped_moped" depart="2850.00" from="gneE67" to="4414263#1"/>
+    <trip id="moped96" type="moped_moped" depart="2880.00" from="-140016412" to="4414264#2"/>
+    <trip id="moped97" type="moped_moped" depart="2910.00" from="4617651#3" to="-120878502"/>
+    <trip id="moped98" type="moped_moped" depart="2940.00" from="4476178#0" to="-4515403#7"/>
+    <trip id="moped99" type="moped_moped" depart="2970.00" from="-30917547#0" to="-4752532#0"/>
+    <trip id="moped100" type="moped_moped" depart="3000.00" from="-16782125#1" to="-gneE64"/>
+    <trip id="moped101" type="moped_moped" depart="3030.00" from="316573934#0" to="62215262#1"/>
+    <trip id="moped102" type="moped_moped" depart="3060.00" from="4476129#1" to="61051435#0"/>
+    <trip id="moped103" type="moped_moped" depart="3090.00" from="-63033592#1" to="4564729#0"/>
+    <trip id="moped104" type="moped_moped" depart="3120.00" from="4515403#7" to="4313236"/>
+    <trip id="moped105" type="moped_moped" depart="3150.00" from="4575867#1" to="4607372#0"/>
+    <trip id="moped106" type="moped_moped" depart="3180.00" from="42701218#0" to="116500370"/>
+    <trip id="moped107" type="moped_moped" depart="3210.00" from="-4515411#2" to="-4475851#1"/>
+    <trip id="moped108" type="moped_moped" depart="3240.00" from="341475040#2" to="4575938#0"/>
+    <trip id="moped109" type="moped_moped" depart="3270.00" from="4573080#2" to="gneE81"/>
+    <trip id="moped110" type="moped_moped" depart="3300.00" from="-130453480#1" to="-4418101#2"/>
+    <trip id="moped111" type="moped_moped" depart="3330.00" from="120300018" to="632406206#0"/>
+    <trip id="moped112" type="moped_moped" depart="3360.00" from="119307730#1" to="4228252#1"/>
+    <trip id="moped113" type="moped_moped" depart="3390.00" from="23242346#0" to="4079463#0"/>
+    <trip id="moped114" type="moped_moped" depart="3420.00" from="4414271#1" to="42701218#0"/>
+    <trip id="moped115" type="moped_moped" depart="3450.00" from="-4617651#2" to="-4573107"/>
+    <trip id="moped116" type="moped_moped" depart="3480.00" from="4412467#1" to="-4711117#1"/>
+    <trip id="moped117" type="moped_moped" depart="3510.00" from="-165878926" to="gneE68"/>
+    <trip id="moped118" type="moped_moped" depart="3540.00" from="4476027#5" to="130453477#0"/>
+    <trip id="moped119" type="moped_moped" depart="3570.00" from="116500363" to="-4421463#0"/>
+    <trip id="moped120" type="moped_moped" depart="3600.00" from="-4607349#0" to="-23416386#1"/>
+    <trip id="moped121" type="moped_moped" depart="3630.00" from="-31752656#1" to="4432057#1"/>
+    <trip id="moped122" type="moped_moped" depart="3660.00" from="4354122#5" to="4475856#4"/>
+    <trip id="moped123" type="moped_moped" depart="3690.00" from="-4451399#1" to="130453480#1"/>
+    <trip id="moped124" type="moped_moped" depart="3720.00" from="-4607347#0" to="4079420#0"/>
+    <trip id="moped125" type="moped_moped" depart="3750.00" from="4711119" to="141113076#0"/>
+    <trip id="moped126" type="moped_moped" depart="3780.00" from="4451389#4" to="112946129#1"/>
+    <trip id="moped127" type="moped_moped" depart="3810.00" from="-4515410#2" to="-4515432#0"/>
+    <trip id="moped128" type="moped_moped" depart="3840.00" from="-204783122#11" to="197884491"/>
+    <trip id="moped129" type="moped_moped" depart="3870.00" from="-4475852" to="-4419377#1"/>
+    <trip id="moped130" type="moped_moped" depart="3900.00" from="-4573076#2" to="4575917#0"/>
+    <trip id="moped131" type="moped_moped" depart="3930.00" from="-4534384#2" to="-42701219#3"/>
+    <trip id="moped132" type="moped_moped" depart="3960.00" from="-62227620#0" to="4451474#4"/>
+    <trip id="moped133" type="moped_moped" depart="3990.00" from="9636284#10" to="4607327"/>
+    <trip id="moped134" type="moped_moped" depart="4020.00" from="116500370" to="25586340#1"/>
+    <trip id="moped135" type="moped_moped" depart="4050.00" from="-4475854#0" to="4607349#1"/>
+    <trip id="moped136" type="moped_moped" depart="4080.00" from="196204771#0" to="-4708346"/>
+    <trip id="moped137" type="moped_moped" depart="4110.00" from="317479995#0" to="222616094#1"/>
+    <trip id="moped138" type="moped_moped" depart="4140.00" from="-4451639#3" to="4515417"/>
+    <trip id="moped139" type="moped_moped" depart="4170.00" from="-4711209#0" to="-37354068"/>
+    <trip id="moped140" type="moped_moped" depart="4200.00" from="4354123" to="-4515421#0"/>
+    <trip id="moped141" type="moped_moped" depart="4230.00" from="gneE117" to="-168605550"/>
+    <trip id="moped142" type="moped_moped" depart="4260.00" from="4573162#4" to="-gneE10"/>
+    <trip id="moped143" type="moped_moped" depart="4290.00" from="13853664#1" to="-23457573"/>
+    <trip id="moped144" type="moped_moped" depart="4320.00" from="-316573936#1" to="-202062827"/>
+    <trip id="moped145" type="moped_moped" depart="4350.00" from="4476117#2" to="-4476032"/>
+    <trip id="moped146" type="moped_moped" depart="4380.00" from="-23755941" to="4684635"/>
+    <trip id="moped147" type="moped_moped" depart="4410.00" from="-112946129#0" to="-4573088"/>
+    <trip id="moped148" type="moped_moped" depart="4440.00" from="-4421463#1" to="-4428685#1"/>
+    <trip id="moped149" type="moped_moped" depart="4470.00" from="4433479#2" to="-4451396#0"/>
+    <trip id="moped150" type="moped_moped" depart="4500.00" from="4451474#7" to="4476027#0"/>
+    <trip id="moped151" type="moped_moped" depart="4530.00" from="4617651#3" to="26588280#7"/>
+    <trip id="moped152" type="moped_moped" depart="4560.00" from="4451389#4" to="192954700#1"/>
+    <trip id="moped153" type="moped_moped" depart="4590.00" from="4354119#1" to="120297217"/>
+    <trip id="moped154" type="moped_moped" depart="4620.00" from="-196204771#0" to="116500373"/>
+    <trip id="moped155" type="moped_moped" depart="4650.00" from="140016412" to="4515418#4"/>
+    <trip id="moped156" type="moped_moped" depart="4680.00" from="31752908" to="4433481#1"/>
+    <trip id="moped157" type="moped_moped" depart="4710.00" from="152245483#0" to="-141113077"/>
+    <trip id="moped158" type="moped_moped" depart="4740.00" from="-32227736#0" to="-4355893#9"/>
+    <trip id="moped159" type="moped_moped" depart="4770.00" from="4412693" to="4515411#2"/>
+    <trip id="moped160" type="moped_moped" depart="4800.00" from="-4515431#7" to="-4573080#1"/>
+    <trip id="moped161" type="moped_moped" depart="4830.00" from="-4573158#1" to="4515431#7"/>
+    <trip id="moped162" type="moped_moped" depart="4860.00" from="-4451962" to="4476178#0"/>
+    <trip id="moped163" type="moped_moped" depart="4890.00" from="-4414263#1" to="4515431#4"/>
+    <trip id="moped164" type="moped_moped" depart="4920.00" from="-25597610#1" to="-26588280#0"/>
+    <trip id="moped165" type="moped_moped" depart="4950.00" from="4228252#2" to="-23412226#1"/>
+    <trip id="moped166" type="moped_moped" depart="4980.00" from="-23568152#4" to="16811953#2"/>
+</routes>

@@ -1,0 +1,24 @@
+2020-08-20 07:50:32.963330
+ 
+Total Sim Time: 278.98890376091003
+Fitness       : 0.43
+
+Total Warnings: 15
+Teleports     : 346
+Collisions    : 12
+
+Warning: Vehicle 'train_Southeastern:_London_Charing_Cross_-_Ramsgate:0.1' performs emergency braking with decel=-5.00 wished=1.30 severity=1.00, time=1175.00.
+Warning: Vehicle 'pCar1248_0' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=1266.00.
+Warning: Vehicle 'veh480' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=1562.00.
+Warning: Vehicle 'pCar1449_0'; collision with vehicle 'pCar2202_0', lane='-156461530#5_1', gap=-1.20, time=2972.00 stage=move.
+Warning: Vehicle 'pCar1449_0'; collision with vehicle 'pCar2202_0', lane='-156461530#5_1', gap=-1.20, time=3029.00 stage=move.
+Warning: Vehicle 'pCar1449_0'; collision with vehicle 'pCar2202_0', lane='-156461530#5_1', gap=-1.20, time=3086.00 stage=move.
+Warning: Vehicle 'pCar1449_0'; collision with vehicle 'pCar2202_0', lane='-156461530#5_1', gap=-1.20, time=3143.00 stage=move.
+Warning: Vehicle 'pCar1449_0'; collision with vehicle 'pCar2202_0', lane='-156461530#5_1', gap=-1.20, time=3200.00 stage=move.
+Warning: Vehicle 'pCar1449_0'; collision with vehicle 'pCar2202_0', lane='-156461530#5_1', gap=-1.20, time=3257.00 stage=move.
+Warning: Vehicle 'pCar1449_0'; collision with vehicle 'pCar2202_0', lane='-156461530#5_1', gap=-1.20, time=3314.00 stage=move.
+Warning: Vehicle 'pCar1449_0'; collision with vehicle 'pCar2202_0', lane='-156461530#5_1', gap=-1.20, time=3371.00 stage=move.
+Warning: Vehicle 'pCar1449_0'; collision with vehicle 'pCar2202_0', lane='-156461530#5_1', gap=-1.20, time=3428.00 stage=move.
+Warning: Vehicle 'pCar1449_0'; collision with vehicle 'pCar2202_0', lane='-156461530#5_1', gap=-1.20, time=3485.00 stage=move.
+Warning: Vehicle 'pCar1449_0'; collision with vehicle 'pCar2202_0', lane='-156461530#5_1', gap=-1.20, time=3542.00 stage=move.
+Warning: Vehicle 'pCar1449_0'; collision with vehicle 'pCar2202_0', lane='-156461530#5_1', gap=-1.20, time=3599.00 stage=move.

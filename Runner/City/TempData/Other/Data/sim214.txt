@@ -1,0 +1,10 @@
+2020-08-11 05:28:50.922137
+ 
+Total Sim Time: 215.62810635566711
+Fitness       : 0.6
+
+Total Warnings: 1
+Teleports     : 5
+Collisions    : 1
+
+Warning: Vehicle 'motorcycle106'; collision with vehicle 'veh2187', lane='4412553_1', gap=-4.62, time=2787.00 stage=move.

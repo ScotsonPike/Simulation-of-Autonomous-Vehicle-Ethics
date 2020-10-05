@@ -1,0 +1,11 @@
+2020-08-09 16:41:07.926153
+ 
+Total Sim Time: 208.6004340648651
+Fitness       : 0.62
+
+Total Warnings: 2
+Teleports     : 6
+Collisions    : 1
+
+Warning: Vehicle 'veh3105'; collision with vehicle 'veh2950', lane='-42701219#2_1', gap=-3.91, time=3429.00 stage=move.
+Warning: Vehicle 'veh2950' performs emergency stop at the end of lane ':1656276617_0_0' because there is no connection to the next edge (decel=-6.46, offset=1.05), time=3431.00.

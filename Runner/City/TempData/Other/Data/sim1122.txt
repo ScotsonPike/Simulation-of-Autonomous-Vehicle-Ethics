@@ -1,0 +1,14 @@
+2020-08-20 00:17:44.294947
+ 
+Total Sim Time: 241.99862241744995
+Fitness       : 0.55
+
+Total Warnings: 5
+Teleports     : 1
+Collisions    : 1
+
+Warning: Vehicle 'pCar148_0'; collision with vehicle 'veh153', lane='-4079440#1_1', gap=-5.81, time=425.00 stage=move.
+Warning: Vehicle 'veh153' performs emergency stop at the end of lane '-4079440#1_1' because there is no connection to the next edge (decel=-9.00, offset=1.59), time=426.00.
+Warning: Vehicle 'veh352' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=815.00.
+Warning: Vehicle 'RedIn.1' performs emergency braking with decel=-7.00 wished=4.00 severity=1.00, time=955.00.
+Warning: Vehicle 'pCar2513_0' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=2330.00.

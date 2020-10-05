@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 07/14/20 21:33:23 by Eclipse SUMO netedit Version 1.6.0
+<configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/netconvertConfiguration.xsd">
+
+    <input>
+        <sumo-net-file value="Canterbury1.net.xml"/>
+    </input>
+
+    <output>
+        <output-file value="Canterbury1.net.xml"/>
+    </output>
+
+    <processing>
+        <geometry.min-radius.fix.railways value="false"/>
+        <geometry.max-grade.fix value="false"/>
+        <offset.disable-normalization value="true"/>
+        <lefthand value="true"/>
+    </processing>
+
+    <junctions>
+        <no-internal-links value="false"/>
+        <no-turnarounds value="true"/>
+        <junctions.corner-detail value="5"/>
+        <junctions.limit-turn-speed value="5.5"/>
+        <rectangular-lane-cut value="false"/>
+    </junctions>
+
+    <pedestrian>
+        <walkingareas value="true"/>
+    </pedestrian>
+
+    <netedit>
+        <route-files value="C:\Users\Josh\Documents\Coding\University\Project\collisionTesting\Demo3\pt2.rou.xml"/>
+    </netedit>
+
+    <report>
+        <aggregate-warnings value="5"/>
+    </report>
+
+</configuration>
+-->
+
+<routes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/routes_file.xsd">
+	<vType id="vTrain" vClass="rail"/>
+	<vType id="vBus" vClass="bus"/>
+	<route edges="4478373 783574959 783574959.114 4484088 308900315 308900329#1 308900332" color="yellow" id="route_1"/> <!--right-left-->
+    <route edges="4484087 4484086 4484080#1 783574958 783574958.1 783574958.1752 308900330" color="yellow" id="route_2"/> <!--left-right-->
+   
+    <route edges="-61051435#2 -61051435#0 -25586340#2 -25586340#1 -25586340#0 -145398963#7 -145398963#6 -145398963#5 -145398963#3 -145398963#2 -145398963#1 -145398963#0 -259393104 -116500379#2 -116500379#1 gneE14 gneE15 116500357 259393103 4433534 116500363 147189199#0 147189199#2 4476032 147189193#1 4476030#0 9644097#1 9644097#2 9644097#3 192954700#4 4476020#0 4476020#1 4354122#6 4354122#7 4354122#8 4354122#1 4354122#2 4476018 141113077 4476019 141113075#0 141113075#1 141113075#2" color="red" id="route_3"/>
+    <route edges="141113075#2 141113076#0 31725977 192954700#0 192954700#1 192954700#2 4476027#0 4476027#1 4476027#2 4476027#3 4476027#4 4476027#5 4476029#2 -147189193#2 -4476032 -147189199#2 -147189199#0 116500370 635745282 635745284 760393323 4313272 168605551 -gneE15 -gneE14 116500379#1 116500379#2 259393104 145398963#0 145398963#1 145398963#2 145398963#3 145398963#4 145398963#6 145398963#7 25586340#0 25586340#1 25586340#2 61051435#0 61051435#1" color="red" id="route_4"/>
+    <route edges="gneE127 141113076#0 31725977 192954700#0 192954700#1 192954700#2 192954700#3 192954700#4 4476020#0 4476020#1 4354122#6 4354122#7 4354122#8 4354119#0 4354119#1 28015748#0 28015748#1 4684635 635745276 4354121#6 4354121#7 4354121#8 4354121#9 4354123 26322685#0 26322685#1 27941892 141039425#1 4418335 4412693 23241618#1" color="red" id="route_5"/>
+    <route edges="4575855#0 4575855#1 4575855#2 222616094#0 222616094#1 222616094#2 222616094#3 222616094#4 141039426 27941893#1 26322686 4354121#2 4354121#3 4354121#4 4354118#0 4354118#1 4684636 635745277 4354122#2 4476018 141113077 4476019 gneE127" color="red" id="route_6"/>
+	
+	<route edges="4428685#0 4428685#1 812847886#1 812847886#2 812847886#4 -156461530#9 -156461530#8 -156461530#5 -156461530#4 -156461530#3 -156461530#1 -156461530#0 -4412639 -31752693#1 -31752693#0 gneE164 gneE165 165380010 165379931 -316573936#1 -156465723#0 -23412227#0 -643124715 -643124716 4412552 222616094#2 222616094#3 222616094#4 141039426 27941893#1 26322686 4354121#2 4354121#3 4354121#4 4354118#0 4354118#1 4684636 635745277 4354122#2 4476018 141113077 4476019 gneE127" color="magenta" id="In4"/>
+    <route edges="112946129#0 112946129#1 179319748#0 179319748#1 39120978 4079420#5 4079420#6 4079420#7 241699177 -116509366#1 -116509366#0 4437304 4079439#6 4079439#7 4079439#8 4437516 26710723 4419384 4419380#3 4419380#4 4419380#5 4419383 -4079421#0 -23457573 5062123 4412475 4079463#0 4079463#1 4079463#2 -23433590#0 -4079440#2 -4079440#1 -4079440#0 4439858#1 4439858#2 61961546 116503939 192954700#2 192954700#3 192954700#4 4476020#0 4476020#1 4354122#6 4354122#7 4354122#8 4354122#1 4354122#2 4476018 141113077 4476019 gneE127" color="blue" id="In5"/>
+    <route edges="116509356#0 116509356#1 116509356#2 116509356#3 -26710721 -209528482#1 4313268 26710723 4419384 4419380#3 4419380#4 4419380#5 4419383 -4079421#0 -23457573 5062123 4412475 4079463#0 4079463#1 4079463#2 -23433590#0 -4079440#2 -4079440#1 -4079440#0 4439858#1 4439858#2 61961546 116503939 192954700#2 192954700#3 192954700#4 4476020#0 4476020#1 4354122#6 4354122#7 4354122#8 4354122#1 4354122#2 4476018 141113077 4476019 gneE127" color="green" id="In6"/>
+    <route edges="133309032#0 133309032#1 9636284#0 9636284#2 9636284#3 9636284#4 9636284#5 9636284#6 9636284#7 9636284#8 9636284#9 9636284#10 9636284#11 9636284#12 9636284#13 9636284#15 9636284#17 31726949 42701218#0 42701218#1 4354121#9 4354121#1 4354121#2 4354121#3 4354121#4 4354118#0 4354118#1 4684636 635745277 4354122#2 4476018 141113077 4476019 gneE127" color="yellow" id="In7"/>
+    <route edges="gneE127 141113076#0 31725977 192954700#0 192954700#1 192954700#2 192954700#3 192954700#4 4476020#0 4476020#1 4354122#6 4354122#7 4354122#8 4354119#0 4354119#1 28015748#0 28015748#1 4684635 635745276 4354121#6 4354121#7 4354121#8 4354121#9 4354123 26322685#0 26322685#1 27941892 141039425#1 4421528 222616094#6 222616094#7 222616094#0 4412551 643124716 643124715 23412227#0 23412227#1 316573936#0 4412553 217831168 120297217 gneE167 gneE168 31752693#0 31752693#1 4412639 156461530#0 156461530#1 156461530#3 156461530#4 156461530#5 156461530#8 156461530#9 -812847886#4 -812847886#2 -812847886#1 -4428685#1 -4428685#0" color="magenta" id="Out4"/>
+    <route edges="gneE127 141113076#0 31725977 192954700#0 4079455 116503940 31485887 190477404 190477403#0 190477403#1 4079440#0 4079440#1 4079440#2 23433590#0 23433590#1 23433590#2 -168611035#1 168611036#0 168611036#1 168611036#3 -32431238#1 23457573 4079421#0 4419382 4419380#1 4419386 -26710723 144175566 4079439#2 4079439#3 4079439#4 116509358 116509366#0 116509366#1 241699174 4079420#1 4079420#2 4079420#3 39120977#0 39120977#1 -31738003 -179319748#0 -112946129#1 -112946129#0" color="blue" id="Out5"/>
+    <route edges="gneE127 141113076#0 31725977 192954700#0 4079455 116503940 31485887 190477404 190477403#0 190477403#1 4079440#0 4079440#1 4079440#2 23433590#0 23433590#1 23433590#2 -168611035#1 168611036#0 168611036#1 168611036#3 -32431238#1 23457573 4079421#0 4419382 4419380#1 4419386 -26710723 -4313268 209528482#0 26710721 -116509356#3 -116509356#2 -116509356#1 -116509356#0" color="green" id="Out6"/>
+    <route edges="gneE127 141113076#0 31725977 192954700#0 192954700#1 192954700#2 192954700#3 192954700#4 4476020#0 4476020#1 4354122#6 4354122#7 4354122#8 4354119#0 4354119#1 28015748#0 28015748#1 4684635 635745276 4354121#6 4354121#7 42701217 -31726949 -9636284#17 -9636284#15 -9636284#14 -9636284#12 -9636284#11 -9636284#10 -9636284#9 -9636284#8 -9636284#7 -9636284#6 -9636284#5 -9636284#4 -9636284#3 -9636284#2 -9636284#1 -133309032#1 -133309032#0" color="yellow" id="Out7"/>
+	
+	
+	<flow id="tflow0" type="vTrain" route="route_1" begin="0" period="1000" end="5000" line="train0">
+		<stop busStop="busStop_783574959_1_0" until="150"/>
+		<stop busStop="6744051183" until="150"/>
+	</flow>
+	<flow id="tflow1" type="vTrain" route="route_2" begin="0" period="500" end="5000" line="train1">
+		<stop busStop="busStop_783574958_1_1" until="150"/>	
+		<stop busStop="busStop_783574958.1752_1_2" until="150"/>
+	</flow>
+	<flow id="RedIn" type="vBus" route="route_3" begin="0" period="900" end="5000" line="RedIn">
+		<stop busStop="busStop_-25586340#1_0_1" until="100"/>
+		<stop busStop="busStop_-145398963#3_0_3" until="100"/>
+		<stop busStop="busStop_-116500379#1_0_5" until="100"/>
+		<stop busStop="busStop_9644097#2_0_7" until="100"/>
+		<stop busStop="1497353157" until="100"/>
+	</flow>
+	<flow id="RedOut" type="vBus" route="route_4" begin="10" period="900" end="5000" line="RedOut">
+		<stop busStop="1497353157" until="100"/>
+		<stop busStop="busStop_4476027#2_0_8" until="100"/>
+		<stop busStop="busStop_116500379#1_0_6" until="100"/>
+		<stop busStop="busStop_145398963#3_0_4" until="100"/>
+		<stop busStop="busStop_25586340#1_0_2" until="100"/>	
+	</flow>
+	<flow id="bflow2Red" type="vBus" route="route_5" begin="20" period="900" end="5000" line="RedOut1">
+			
+		<stop busStop="busStop_gneE127_1_39" until="100"/>
+		<stop busStop="busStop_28015748#0_0_9" until="100"/>
+		<stop busStop="busStop_4684635_0_11" until="100"/>
+		<stop busStop="busStop_4354123_0_13" until="100"/>
+		<stop busStop="busStop_23241618#1_0_4" until="100"/>
+	</flow>
+	<flow id="bflow3Red" type="vBus" route="route_6" begin="30" period="900" end="5000" line="RedIn1">
+		<stop busStop="busStop_4575855#1_0_5" until="100"/>
+		<stop busStop="busStop_26322686_0_14" until="100"/>
+		<stop busStop="busStop_4354118#0_0_12" until="100"/>
+		<stop busStop="busStop_4684636_0_10" until="100"/>
+		<stop busStop="busStop_gneE127_1_37" until="100"/>
+	</flow>
+	
+	
+    <flow id="PinkIn" type="vBus" begin="50.00" color="magenta" route="In4" end="5400.00" period="900.00" line="PinkIn">
+		<stop busStop="busStop_812847886#1_1_15" until="100"/>
+		<stop busStop="busStop_-156461530#8_1_7" until="100"/>
+		<stop busStop="busStop_-31752693#0_1_18" until="100"/>
+		<stop busStop="busStop_4354118#0_0_12" until="100"/>
+		<stop busStop="busStop_4684636_0_10" until="100"/>
+		<stop busStop="busStop_gneE127_1_37" until="100"/>
+	</flow>
+	<flow id="PinkOut" type="vBus" begin="50.00" color="magenta" route="Out4" end="5400.00" period="900.00" line="PinkOut">
+		<stop busStop="busStop_gneE127_1_40" until="100"/>
+		<stop busStop="busStop_28015748#0_0_9" until="100"/>
+		<stop busStop="busStop_4684635_0_11" until="100"/>
+		<stop busStop="busStop_4354123_0_13" until="100"/>
+		<stop busStop="busStop_31752693#0_1_19" until="100"/>
+		<stop busStop="busStop_156461530#9_1_6" until="100"/>
+		<stop busStop="busStop_-4428685#0_1_16" until="100"/>
+	</flow>
+	<flow id="blueIn" type="vBus" begin="100.00" color="blue" route="In5" end="5400.00" period="900.00" line="BlueIn">
+		<stop busStop="busStop_179319748#1_1_24" until="100"/>
+		<!--<stop busStop="busStop_4433481#2_1_34" until="100"/>-->
+		<stop busStop="busStop_4439858#2_1_36" until="100"/>
+		<stop busStop="busStop_gneE127_1_37" until="100"/>
+	</flow>	
+	<flow id="blueOut" type="vBus" begin="100.00" color="blue" route="Out5" end="5400.00" period="900.00" line="BlueOut">
+		<stop busStop="busStop_gneE127_1_38" until="100"/>
+		<stop busStop="busStop_168611036#0_1_35" until="100"/>
+		<stop busStop="busStop_116509366#1_1_25" until="100"/>
+	</flow>	
+	<flow id="GreenOut" type="vBus" begin="200.00" color="green" route="Out6" end="5400.00" period="900.00" line="GreenOut">
+		<stop busStop="busStop_gneE127_1_42" until="100"/>
+		<stop busStop="busStop_168611036#0_1_35" until="100"/>
+		<stop busStop="busStop_209528482#0_1_26" until="100"/>
+	</flow>
+	<flow id="GreenIn" type="vBus" begin="200.00" color="green" route="In6" end="5400.00" period="900.00" line="GreenIn">
+		<stop busStop="busStop_116509356#0_1_28" until="100"/>
+		<stop busStop="busStop_-26710721_1_27" until="100"/>
+		<!--<stop busStop="busStop_4433481#2_1_34" until="100"/>-->
+		<stop busStop="busStop_4439858#2_1_36" until="100"/>
+		<stop busStop="busStop_gneE127_1_37" until="100"/>
+   	</flow>
+    <flow id="YellowIn" type="vBus" begin="300.00" route="In7" end="5400.00" period="900.00" line="YellowIn">
+		<stop busStop="busStop_9636284#5_1_2" until="100"/>
+		<stop busStop="busStop_9636284#12_1_1" until="100"/>
+		<stop busStop="busStop_4354118#0_0_12" until="100"/>
+		<stop busStop="busStop_4684636_0_10" until="100"/>
+		<stop busStop="busStop_gneE127_1_38" until="100"/>
+	</flow>	
+	<flow id="YellowOut" type="vBus" begin="300.00" route="Out7" end="5400.00" period="900.00" line="YellowOut">
+		<stop busStop="busStop_gneE127_1_41" until="100"/>
+		<stop busStop="busStop_28015748#0_0_9" until="100"/>
+		<stop busStop="busStop_-9636284#12_1_0" until="100"/>
+		<stop busStop="busStop_-133309032#0_1_3" until="100"/>
+	</flow>
+    <!--<flow id="routeFlow_0" type="vBus" begin="60.00" route="Out6" end="5400.00" period="500.00"/>-->
+</routes>

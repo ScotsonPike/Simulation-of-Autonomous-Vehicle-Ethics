@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 09/06/20 17:18:13 by Eclipse SUMO GUI Version 1.6.0
+<configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/sumoConfiguration.xsd">
+
+    <input>
+        <net-file value="C:\Users\Josh\Documents\Coding\University\Project\collisionTesting\Corpus\Runner\Rural\Thanet.net.xml"/>
+        <route-files value="C:\Users\Josh\Documents\Coding\University\Project\collisionTesting\Corpus\Runner\Rural\TempData/Rou/vehicle2.trip.xml,C:\Users\Josh\Documents\Coding\University\Project\collisionTesting\Corpus\Runner\Rural\TempData/Rou/pCar.trip.xml,C:\Users\Josh\Documents\Coding\University\Project\collisionTesting\Corpus\Runner\Rural\TempData/Rou/truck.trip.xml,C:\Users\Josh\Documents\Coding\University\Project\collisionTesting\Corpus\Runner\Rural\TempData/Rou/lorry.trip.xml,C:\Users\Josh\Documents\Coding\University\Project\collisionTesting\Corpus\Runner\Rural\TempData/Rou/motorcycle.trip.xml,C:\Users\Josh\Documents\Coding\University\Project\collisionTesting\Corpus\Runner\Rural\TempData/Rou/pt.rou.xml,C:\Users\Josh\Documents\Coding\University\Project\collisionTesting\Corpus\Runner\Rural\TempData/Rou/moped.trip.xml,C:\Users\Josh\Documents\Coding\University\Project\collisionTesting\Corpus\Runner\Rural\TempData/Rou/bike.trip.xml,C:\Users\Josh\Documents\Coding\University\Project\collisionTesting\Corpus\Runner\Rural\TempData/Rou/ped.trip.xml,C:\Users\Josh\Documents\Coding\University\Project\collisionTesting\Corpus\Runner\Rural\TempData/Rou/bus.rou.xml"/>
+        <additional-files value="C:\Users\Josh\Documents\Coding\University\Project\collisionTesting\Corpus\Runner\Rural\TempData/Add/Thanet.poly.xml,C:\Users\Josh\Documents\Coding\University\Project\collisionTesting\Corpus\Runner\Rural\TempData/Add/parking.add.xml,C:\Users\Josh\Documents\Coding\University\Project\collisionTesting\Corpus\Runner\Rural\TempData/Add/Thanet.add.xml"/>
+    </input>
+
+    <time>
+        <begin value="0"/>
+        <end value="3600"/>
+    </time>
+
+</configuration>
+-->
+
+<detector xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/det_e1_file.xsd">
+    <interval begin="0.00" end="184.00" id="A253_0" nVehContrib="0" flow="0.00" occupancy="0.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
+    <interval begin="0.00" end="184.00" id="A253_1" nVehContrib="0" flow="0.00" occupancy="0.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
+    <interval begin="0.00" end="184.00" id="A299_0" nVehContrib="0" flow="0.00" occupancy="0.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
+    <interval begin="0.00" end="184.00" id="A299_1" nVehContrib="0" flow="0.00" occupancy="0.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
+    <interval begin="0.00" end="184.00" id="A299_2" nVehContrib="0" flow="0.00" occupancy="0.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
+    <interval begin="0.00" end="184.00" id="A299_3" nVehContrib="0" flow="0.00" occupancy="0.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
+    <interval begin="0.00" end="184.00" id="CanterburyRd_0" nVehContrib="2" flow="39.13" occupancy="0.26" speed="9.30" harmonicMeanSpeed="9.09" length="2.15" nVehEntered="2"/>
+    <interval begin="0.00" end="184.00" id="CanterburyRd_1" nVehContrib="0" flow="0.00" occupancy="0.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
+    <interval begin="0.00" end="184.00" id="SpitfireWay_1" nVehContrib="1" flow="19.57" occupancy="0.09" speed="30.58" harmonicMeanSpeed="30.58" length="5.00" nVehEntered="1"/>
+    <interval begin="0.00" end="184.00" id="SpitfirerWay_0" nVehContrib="0" flow="0.00" occupancy="0.00" speed="-1.00" harmonicMeanSpeed="-1.00" length="-1.00" nVehEntered="0"/>
+</detector>

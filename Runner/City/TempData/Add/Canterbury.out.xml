@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 07/31/20 15:59:44 by Eclipse SUMO Version 1.6.0
+<configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/sumoConfiguration.xsd">
+
+    <input>
+        <net-file value="Canterbury.net.xml"/>
+        <route-files value="TempData/Rou/vehicle.trip.xml,TempData/Rou/pCar.trip.xml,TempData/Rou/truck.trip.xml,TempData/Rou/lorry.trip.xml,TempData/Rou/motorcycle.trip.xml,TempData/Rou/pt.rou.xml,TempData/Rou/pt2.rou.xml,TempData/Rou/moped.trip.xml,TempData/Rou/emergency.trip.xml,TempData/Rou/bike.trip.xml"/>
+        <additional-files value="TempData/Add/Canterbury2.poly.xml,TempData/Add/TrainStations.add.xml,TempData/Add/BusStops.add.xml,TempData/Add/Parking.add.xml,TempData/Add/Detectors.add.xml"/>
+    </input>
+
+    <time>
+        <begin value="0"/>
+        <end value="3600"/>
+    </time>
+
+    <processing>
+        <collision.action value="warn"/>
+        <collision.stoptime value="50"/>
+        <collision.mingap-factor value="1"/>
+    </processing>
+
+    <report>
+        <error-log value="TempData/Other/error.txt"/>
+    </report>
+
+</configuration>
+-->
+
+<detector xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/det_e1_file.xsd">
+    <interval begin="0.00" end="3600.00" id="A257_0" nVehContrib="199" flow="199.00" occupancy="2.59" speed="11.64" harmonicMeanSpeed="11.08" length="5.17" nVehEntered="200"/>
+    <interval begin="0.00" end="3600.00" id="A257_1" nVehContrib="73" flow="73.00" occupancy="0.81" speed="12.46" harmonicMeanSpeed="12.28" length="4.88" nVehEntered="73"/>
+    <interval begin="0.00" end="3600.00" id="A257_2" nVehContrib="155" flow="155.00" occupancy="1.80" speed="12.23" harmonicMeanSpeed="11.94" length="4.97" nVehEntered="156"/>
+    <interval begin="0.00" end="3600.00" id="A257_3" nVehContrib="345" flow="345.00" occupancy="4.32" speed="11.93" harmonicMeanSpeed="11.32" length="5.08" nVehEntered="346"/>
+    <interval begin="0.00" end="3600.00" id="A290_0" nVehContrib="202" flow="202.00" occupancy="1.74" speed="16.80" harmonicMeanSpeed="16.60" length="5.16" nVehEntered="202"/>
+    <interval begin="0.00" end="3600.00" id="A290_1" nVehContrib="76" flow="76.00" occupancy="0.65" speed="16.82" harmonicMeanSpeed="16.64" length="5.15" nVehEntered="76"/>
+    <interval begin="0.00" end="3600.00" id="A290_2" nVehContrib="201" flow="201.00" occupancy="47.75" speed="16.08" harmonicMeanSpeed="0.70" length="5.05" nVehEntered="203"/>
+    <interval begin="0.00" end="3600.00" id="A290_3" nVehContrib="174" flow="174.00" occupancy="1.68" speed="15.58" harmonicMeanSpeed="14.65" length="5.06" nVehEntered="174"/>
+    <interval begin="0.00" end="3600.00" id="A290_4" nVehContrib="148" flow="148.00" occupancy="2.33" speed="10.09" harmonicMeanSpeed="9.22" length="5.24" nVehEntered="148"/>
+    <interval begin="0.00" end="3600.00" id="A290_5" nVehContrib="111" flow="111.00" occupancy="40.40" speed="6.06" harmonicMeanSpeed="0.38" length="5.01" nVehEntered="112"/>
+    <interval begin="0.00" end="3600.00" id="BroadStreet0" nVehContrib="356" flow="356.00" occupancy="19.72" speed="8.21" harmonicMeanSpeed="3.81" length="5.09" nVehEntered="357"/>
+    <interval begin="0.00" end="3600.00" id="BroadStreet1" nVehContrib="275" flow="275.00" occupancy="5.36" speed="10.85" harmonicMeanSpeed="7.27" length="5.15" nVehEntered="275"/>
+</detector>

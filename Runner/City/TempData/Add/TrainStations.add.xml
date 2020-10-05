@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<additional xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/additional_file.xsd">
+    <busStop id="1497353157" name="St George&apos;s Lane" lane="141113075#2_1" startPos="0.00" endPos="7.50" friendlyPos="true" lines="EL450"/>
+    <busStop id="2051085932" name="Chartham" lane="196370496#0_1" startPos="0.00" endPos="100.00" friendlyPos="true" lines="Southeastern: London Charing Cross - Ramsgate"/>
+   <busStop id="26867652" name="Chartham" lane="81100788#1.4785_1" startPos="0.00" endPos="4895.41" friendlyPos="true" lines="Southeastern: Ramsgate - London Charing Cross"/>
+    <busStop id="3453612248" name="Canterbury West" lane="4412720#2_1" startPos="3.16" endPos="101.82" friendlyPos="true" lines="Southeastern: Ramsgate - London Charing Cross HS1"/>
+    <busStop id="3453612250" name="Canterbury West" lane="194554546.31_1" startPos="0.00" endPos="98.72" friendlyPos="true" lines="Ashford-Ramsgate HS1 Southeastern: London Charing Cross - Ramsgate"/>
+    <busStop id="6688385696" name="Sturry" lane="194560711#1_0" startPos="0.00" endPos="100.00" friendlyPos="true" lines="Southeastern: London Charing Cross - Ramsgate"/>
+    <busStop id="6744051182" name="Canterbury East" lane="783574958_0" startPos="1895.02" endPos="1995.02" friendlyPos="true" lines="Southeastern: London Vic - Dover Southeastern: Faversham - Dover"/>
+    <busStop id="6744051183" name="Canterbury East" lane="4484088_1" startPos="0.00" endPos="100.00" friendlyPos="true" lines="Southeastern: Dover - London Vic Southeastern: Dover - Faversham"/>
+	<busStop id="busStop_783574958_1_1" lane="783574958_1" startPos="0.00" endPos="1295.43" friendlyPos="1"/>
+    <busStop id="busStop_783574959_1_0" lane="783574959_1" startPos="0.00" endPos="827.47" friendlyPos="1"/>
+	<busStop id="busStop_783574958.1752_1_2" lane="783574958.1752_1" startPos="0.00" endPos="102.97" friendlyPos="1"/>
+</additional>

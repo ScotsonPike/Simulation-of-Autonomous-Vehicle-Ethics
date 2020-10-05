@@ -1,0 +1,12 @@
+2020-08-11 13:05:32.025420
+ 
+Total Sim Time: 268.70236706733704
+Fitness       : 0.62
+
+Total Warnings: 3
+Teleports     : 0
+Collisions    : 1
+
+Warning: Vehicle 'veh440'; collision with vehicle 'veh431', lane='-4433479#0_1', gap=-6.60, time=492.00 stage=move.
+Warning: Vehicle 'veh574' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=934.00.
+Warning: Vehicle 'pCar855_0' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=1727.00.

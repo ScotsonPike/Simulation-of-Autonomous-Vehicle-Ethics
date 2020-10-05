@@ -1,0 +1,10 @@
+2020-08-11 09:20:54.415121
+ 
+Total Sim Time: 267.3398051261902
+Fitness       : 0.6
+
+Total Warnings: 1
+Teleports     : 9
+Collisions    : 0
+
+Warning: Vehicle 'trailer18' performs emergency braking with decel=-7.00 wished=4.00 severity=1.00, time=2085.00.

@@ -1,0 +1,11 @@
+<configuration>
+	<input>
+		<net-file value="Thanet.net.xml"/>
+		<route-files value="TempData/Rou/vehicle2.trip.xml, TempData/Rou/pCar.trip.xml, TempData/Rou/truck.trip.xml, TempData/Rou/lorry.trip.xml, TempData/Rou/motorcycle.trip.xml, TempData/Rou/pt.rou.xml, TempData/Rou/moped.trip.xml,  TempData/Rou/bike.trip.xml, TempData/Rou/ped.trip.xml, TempData/Rou/bus.rou.xml"/>
+		<additional-files value="TempData/Add/Thanet.poly.xml, TempData/Add/parking.add.xml, TempData/Add/Thanet.add.xml"/>
+	</input>
+	<time>
+		<begin value="0"/>
+		<end value="3600"/>
+	</time>
+</configuration>

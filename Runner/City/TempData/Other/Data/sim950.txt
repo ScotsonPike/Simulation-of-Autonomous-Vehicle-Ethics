@@ -1,0 +1,9 @@
+2020-08-18 14:14:25.254785
+ 
+Total Sim Time: 162.0499095916748
+Fitness       : 0
+
+Total Warnings: 0
+Teleports     : 0
+Collisions    : 0
+

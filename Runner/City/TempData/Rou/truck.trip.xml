@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 08/20/20 20:14:32 by Eclipse SUMO duarouter Version 1.6.0
+<configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/duarouterConfiguration.xsd">
+
+    <input>
+        <net-file value="Canterbury.net.xml"/>
+        <route-files value="TempData/Rou/truck.trip.xml"/>
+    </input>
+
+    <output>
+        <output-file value="TempData/Rou/truck.trip.xml.tmp"/>
+        <write-trips value="true"/>
+    </output>
+
+    <time>
+        <begin value="0"/>
+        <end value="5000"/>
+    </time>
+
+    <report>
+        <no-warnings value="true"/>
+        <ignore-errors value="true"/>
+        <no-step-log value="true"/>
+    </report>
+
+</configuration>
+-->
+
+<routes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/routes_file.xsd">
+    <vType id="truck_truck" vClass="truck"/>
+    <trip id="truck0" type="truck_truck" depart="0.00" from="145398963#7" to="4476123#1"/>
+    <trip id="truck1" type="truck_truck" depart="20.00" from="-4227959#4" to="-23457746#1"/>
+    <trip id="truck2" type="truck_truck" depart="40.00" from="-gneE15" to="-4573109#1"/>
+    <trip id="truck3" type="truck_truck" depart="60.00" from="-4515411#0" to="4607335#1"/>
+    <trip id="truck4" type="truck_truck" depart="80.00" from="gneE84" to="-4451390#1"/>
+    <trip id="truck5" type="truck_truck" depart="100.00" from="-4607335#4" to="-63033592#0"/>
+    <trip id="truck6" type="truck_truck" depart="120.00" from="-4515472#0" to="-23412227#0"/>
+    <trip id="truck7" type="truck_truck" depart="140.00" from="-4227959#4" to="4354122#6"/>
+    <trip id="truck8" type="truck_truck" depart="160.00" from="4476056#0" to="121814605#1"/>
+    <trip id="truck9" type="truck_truck" depart="180.00" from="4451639#3" to="643124717#0"/>
+    <trip id="truck10" type="truck_truck" depart="200.00" from="-23457619#0" to="4564728#3"/>
+    <trip id="truck11" type="truck_truck" depart="220.00" from="4452682#0" to="4418101#4"/>
+    <trip id="truck12" type="truck_truck" depart="240.00" from="4451645" to="9665224"/>
+    <trip id="truck13" type="truck_truck" depart="260.00" from="4419377#0" to="-112946129#0"/>
+    <trip id="truck14" type="truck_truck" depart="280.00" from="217831168" to="4451389#3"/>
+    <trip id="truck15" type="truck_truck" depart="300.00" from="4451893#1" to="26588280#0"/>
+    <trip id="truck16" type="truck_truck" depart="320.00" from="-4515472#0" to="4607349#1"/>
+    <trip id="truck17" type="truck_truck" depart="340.00" from="-23242346#0" to="4433583#3"/>
+    <trip id="truck18" type="truck_truck" depart="360.00" from="4607366#4" to="13853672#0"/>
+    <trip id="truck19" type="truck_truck" depart="380.00" from="121814607" to="204783122#0"/>
+    <trip id="truck20" type="truck_truck" depart="400.00" from="4313268" to="-4708370#1"/>
+    <trip id="truck21" type="truck_truck" depart="420.00" from="4451474#7" to="4483769#8"/>
+    <trip id="truck22" type="truck_truck" depart="440.00" from="27937170#3" to="4228005#4"/>
+    <trip id="truck23" type="truck_truck" depart="460.00" from="-585833405" to="4421549#0"/>
+    <trip id="truck24" type="truck_truck" depart="480.00" from="4573074" to="4573159#0"/>
+    <trip id="truck25" type="truck_truck" depart="500.00" from="-4564729#7" to="-4437565"/>
+    <trip id="truck26" type="truck_truck" depart="520.00" from="-4564729#7" to="4607372#0"/>
+    <trip id="truck27" type="truck_truck" depart="540.00" from="gneE124" to="-4228252#2"/>
+    <trip id="truck28" type="truck_truck" depart="560.00" from="4417802#1" to="4354121#6"/>
+    <trip id="truck29" type="truck_truck" depart="580.00" from="4437565" to="-4451962"/>
+    <trip id="truck30" type="truck_truck" depart="600.00" from="4573068#1" to="-gneE72"/>
+    <trip id="truck31" type="truck_truck" depart="620.00" from="144175566" to="-4515421#0"/>
+    <trip id="truck32" type="truck_truck" depart="640.00" from="-4475855#0" to="196198553#0"/>
+    <trip id="truck33" type="truck_truck" depart="660.00" from="-4711115#1" to="4575866#0"/>
+    <trip id="truck34" type="truck_truck" depart="680.00" from="-23457614#0" to="4483769#5"/>
+    <trip id="truck35" type="truck_truck" depart="700.00" from="-23403555#3" to="-4575916#0"/>
+    <trip id="truck36" type="truck_truck" depart="720.00" from="4475856#6" to="4573159#0"/>
+    <trip id="truck37" type="truck_truck" depart="740.00" from="-4476814#13" to="4412469"/>
+    <trip id="truck38" type="truck_truck" depart="760.00" from="4451894#0" to="-4575938#0"/>
+    <trip id="truck39" type="truck_truck" depart="780.00" from="-4412470#2" to="156461530#9"/>
+    <trip id="truck40" type="truck_truck" depart="800.00" from="4515403#0" to="4412537#1"/>
+    <trip id="truck41" type="truck_truck" depart="820.00" from="4433537#0" to="4412551"/>
+    <trip id="truck42" type="truck_truck" depart="840.00" from="16782125#2" to="27937170#1"/>
+    <trip id="truck43" type="truck_truck" depart="860.00" from="-23433538#1" to="27937170#2"/>
+    <trip id="truck44" type="truck_truck" depart="880.00" from="4354122#5" to="-4475859#0"/>
+    <trip id="truck45" type="truck_truck" depart="900.00" from="-4573186#0" to="-4476056#0"/>
+    <trip id="truck46" type="truck_truck" depart="920.00" from="-4412470#0" to="23457756#1"/>
+    <trip id="truck47" type="truck_truck" depart="940.00" from="4079463#1" to="116500373"/>
+    <trip id="truck48" type="truck_truck" depart="960.00" from="-23457526" to="-4515435"/>
+    <trip id="truck49" type="truck_truck" depart="980.00" from="-23463423#0" to="-4476126#2"/>
+    <trip id="truck50" type="truck_truck" depart="1000.00" from="-204783122#11" to="4476015"/>
+    <trip id="truck51" type="truck_truck" depart="1020.00" from="-gneE113" to="25997572"/>
+    <trip id="truck52" type="truck_truck" depart="1040.00" from="9636284#4" to="196204770#1"/>
+    <trip id="truck53" type="truck_truck" depart="1060.00" from="-23755941" to="4711232#0"/>
+    <trip id="truck54" type="truck_truck" depart="1080.00" from="4419380#1" to="4711116#3"/>
+    <trip id="truck55" type="truck_truck" depart="1100.00" from="4534384#5" to="-4437565"/>
+    <trip id="truck56" type="truck_truck" depart="1120.00" from="-4476016#3" to="-4564731"/>
+    <trip id="truck57" type="truck_truck" depart="1140.00" from="-23403307" to="4412552"/>
+    <trip id="truck58" type="truck_truck" depart="1160.00" from="-4437259#1" to="-4575916#1"/>
+    <trip id="truck59" type="truck_truck" depart="1180.00" from="gneE101" to="204783122#6"/>
+    <trip id="truck60" type="truck_truck" depart="1200.00" from="-gneE10" to="-4692438#0"/>
+    <trip id="truck61" type="truck_truck" depart="1220.00" from="4414263#2" to="4575938#1"/>
+    <trip id="truck62" type="truck_truck" depart="1240.00" from="-4451456#0" to="gneE65"/>
+    <trip id="truck63" type="truck_truck" depart="1260.00" from="-4515404#0" to="4433582#1"/>
+    <trip id="truck64" type="truck_truck" depart="1280.00" from="-4412467#1" to="4515411#2"/>
+    <trip id="truck65" type="truck_truck" depart="1300.00" from="4607379" to="-145398963#0"/>
+    <trip id="truck66" type="truck_truck" depart="1320.00" from="-4573162#5" to="4451640#2"/>
+    <trip id="truck67" type="truck_truck" depart="1340.00" from="-4573057#3" to="4575916#0"/>
+    <trip id="truck68" type="truck_truck" depart="1360.00" from="23457567#0" to="4607379"/>
+    <trip id="truck69" type="truck_truck" depart="1380.00" from="-112946129#1" to="4079441#1"/>
+    <trip id="truck70" type="truck_truck" depart="1400.00" from="23242339" to="4476015"/>
+    <trip id="truck71" type="truck_truck" depart="1420.00" from="4412537#0" to="130453477#3"/>
+    <trip id="truck72" type="truck_truck" depart="1440.00" from="-4752532#0" to="-4412467#1"/>
+    <trip id="truck73" type="truck_truck" depart="1460.00" from="141113076#0" to="-4476015"/>
+    <trip id="truck74" type="truck_truck" depart="1480.00" from="26588280#1" to="4625707#0"/>
+    <trip id="truck75" type="truck_truck" depart="1500.00" from="-4451641#2" to="-4621171#0"/>
+    <trip id="truck76" type="truck_truck" depart="1520.00" from="25586340#2" to="-4607366#3"/>
+    <trip id="truck77" type="truck_truck" depart="1540.00" from="4573286" to="62215261#0"/>
+    <trip id="truck78" type="truck_truck" depart="1560.00" from="4452064#2" to="4625707#3"/>
+    <trip id="truck79" type="truck_truck" depart="1580.00" from="632410546#3" to="-4607330#2"/>
+    <trip id="truck80" type="truck_truck" depart="1600.00" from="4476126#2" to="-4515418#6"/>
+    <trip id="truck81" type="truck_truck" depart="1620.00" from="4451639#0" to="-4607367#1"/>
+    <trip id="truck82" type="truck_truck" depart="1640.00" from="-4573158#0" to="4313271"/>
+    <trip id="truck83" type="truck_truck" depart="1660.00" from="4079441#0" to="23540132"/>
+    <trip id="truck84" type="truck_truck" depart="1680.00" from="-4573189#1" to="-196198553#1"/>
+    <trip id="truck85" type="truck_truck" depart="1700.00" from="-23463426" to="4573057#1"/>
+    <trip id="truck86" type="truck_truck" depart="1720.00" from="-4515521#0" to="-127959220#0"/>
+    <trip id="truck87" type="truck_truck" depart="1740.00" from="-4621095#0" to="-4436924#1"/>
+    <trip id="truck88" type="truck_truck" depart="1760.00" from="4412474#3" to="4575866#1"/>
+    <trip id="truck89" type="truck_truck" depart="1780.00" from="4564731" to="4476814#8"/>
+    <trip id="truck90" type="truck_truck" depart="1800.00" from="-317479995#2" to="-4607333#1"/>
+    <trip id="truck91" type="truck_truck" depart="1820.00" from="4515433" to="4515433"/>
+    <trip id="truck92" type="truck_truck" depart="1840.00" from="-112946129#0" to="4711209#0"/>
+    <trip id="truck93" type="truck_truck" depart="1860.00" from="-116500379#1" to="-4564729#4"/>
+    <trip id="truck94" type="truck_truck" depart="1880.00" from="-4451397#0" to="-4451644"/>
+    <trip id="truck95" type="truck_truck" depart="1900.00" from="585833405" to="4475851#2"/>
+    <trip id="truck96" type="truck_truck" depart="1920.00" from="-4607366#3" to="145398963#0"/>
+    <trip id="truck97" type="truck_truck" depart="1940.00" from="-4479969" to="-4451961#2"/>
+    <trip id="truck98" type="truck_truck" depart="1960.00" from="4607361" to="28015748#1"/>
+    <trip id="truck99" type="truck_truck" depart="1980.00" from="-4451644" to="-116500355#0"/>
+    <trip id="truck100" type="truck_truck" depart="2000.00" from="-4227959#4" to="4476015"/>
+    <trip id="truck101" type="truck_truck" depart="2020.00" from="4607330#1" to="4428685#0"/>
+    <trip id="truck102" type="truck_truck" depart="2040.00" from="9636284#4" to="-4515411#2"/>
+    <trip id="truck103" type="truck_truck" depart="2060.00" from="4679516" to="gneE167"/>
+    <trip id="truck104" type="truck_truck" depart="2080.00" from="-4515403#2" to="4414265#0"/>
+    <trip id="truck105" type="truck_truck" depart="2100.00" from="4451396#1" to="-gneE112"/>
+    <trip id="truck106" type="truck_truck" depart="2120.00" from="-4515434#1" to="25597610#1"/>
+    <trip id="truck107" type="truck_truck" depart="2140.00" from="63033589#2" to="-4515436#0"/>
+    <trip id="truck108" type="truck_truck" depart="2160.00" from="4621170" to="4079440#2"/>
+    <trip id="truck109" type="truck_truck" depart="2180.00" from="4515431#11" to="4476021#2"/>
+    <trip id="truck110" type="truck_truck" depart="2200.00" from="4607347#0" to="4476123#1"/>
+    <trip id="truck111" type="truck_truck" depart="2220.00" from="4418335" to="-4451396#0"/>
+    <trip id="truck112" type="truck_truck" depart="2240.00" from="4476118#0" to="-23242346#0"/>
+    <trip id="truck113" type="truck_truck" depart="2260.00" from="4476122#1" to="4476016#0"/>
+    <trip id="truck114" type="truck_truck" depart="2280.00" from="116509356#1" to="-196204771#0"/>
+    <trip id="truck115" type="truck_truck" depart="2300.00" from="4625707#0" to="-4575866#1"/>
+    <trip id="truck116" type="truck_truck" depart="2320.00" from="-15541963#1" to="gneE111"/>
+    <trip id="truck117" type="truck_truck" depart="2340.00" from="4575864" to="-4573119#1"/>
+    <trip id="truck118" type="truck_truck" depart="2360.00" from="-317479995#2" to="4515497#1"/>
+    <trip id="truck119" type="truck_truck" depart="2380.00" from="4575942#1" to="-4476034#1"/>
+    <trip id="truck120" type="truck_truck" depart="2400.00" from="23553046#5" to="-4414271#2"/>
+    <trip id="truck121" type="truck_truck" depart="2420.00" from="-4355893#2" to="145398963#6"/>
+    <trip id="truck122" type="truck_truck" depart="2440.00" from="-30071474" to="4228252#2"/>
+    <trip id="truck123" type="truck_truck" depart="2460.00" from="4433478" to="4079420#5"/>
+    <trip id="truck124" type="truck_truck" depart="2480.00" from="4354122#8" to="-4573166"/>
+    <trip id="truck125" type="truck_truck" depart="2500.00" from="gneE69" to="760393323"/>
+    <trip id="truck126" type="truck_truck" depart="2520.00" from="gneE44" to="4355893#6"/>
+    <trip id="truck127" type="truck_truck" depart="2540.00" from="4412470#2" to="4573068#0"/>
+    <trip id="truck128" type="truck_truck" depart="2560.00" from="-4711116#3" to="4354122#7"/>
+    <trip id="truck129" type="truck_truck" depart="2580.00" from="-4452669#1" to="28702011"/>
+    <trip id="truck130" type="truck_truck" depart="2600.00" from="-27937170#1" to="4437288"/>
+    <trip id="truck131" type="truck_truck" depart="2620.00" from="4419376#2" to="-4573159#1"/>
+    <trip id="truck132" type="truck_truck" depart="2640.00" from="116509362" to="4419384"/>
+    <trip id="truck133" type="truck_truck" depart="2660.00" from="4476021#4" to="4476027#4"/>
+    <trip id="truck134" type="truck_truck" depart="2680.00" from="-4228004#1" to="-4711151#0"/>
+    <trip id="truck135" type="truck_truck" depart="2700.00" from="-9636284#11" to="-714452057#1"/>
+    <trip id="truck136" type="truck_truck" depart="2720.00" from="-204783122#0" to="-62227620#0"/>
+    <trip id="truck137" type="truck_truck" depart="2740.00" from="4476058" to="9636284#3"/>
+    <trip id="truck138" type="truck_truck" depart="2760.00" from="643124716" to="4534384#5"/>
+    <trip id="truck139" type="truck_truck" depart="2780.00" from="606256988#0" to="4573119#0"/>
+    <trip id="truck140" type="truck_truck" depart="2800.00" from="222616094#0" to="4451397#0"/>
+    <trip id="truck141" type="truck_truck" depart="2820.00" from="204783122#7" to="4515403#3"/>
+    <trip id="truck142" type="truck_truck" depart="2840.00" from="116500373" to="gneE84"/>
+    <trip id="truck143" type="truck_truck" depart="2860.00" from="-358793307#0" to="222616094#5"/>
+    <trip id="truck144" type="truck_truck" depart="2880.00" from="4419377#1" to="-4452669#0"/>
+    <trip id="truck145" type="truck_truck" depart="2900.00" from="4421528" to="4564729#1"/>
+    <trip id="truck146" type="truck_truck" depart="2920.00" from="4515520" to="23457754#2"/>
+    <trip id="truck147" type="truck_truck" depart="2940.00" from="-4573105" to="4432057#0"/>
+    <trip id="truck148" type="truck_truck" depart="2960.00" from="317479994#1" to="-gneE10"/>
+    <trip id="truck149" type="truck_truck" depart="2980.00" from="-4711209#1" to="4564729#7"/>
+    <trip id="truck150" type="truck_truck" depart="3000.00" from="4515521#0" to="-4607335#1"/>
+    <trip id="truck151" type="truck_truck" depart="3020.00" from="26588280#5" to="32227736#0"/>
+    <trip id="truck152" type="truck_truck" depart="3040.00" from="-4607350" to="4723320"/>
+    <trip id="truck153" type="truck_truck" depart="3060.00" from="4573108" to="-4475856#9"/>
+    <trip id="truck154" type="truck_truck" depart="3080.00" from="25586340#2" to="-4708346"/>
+    <trip id="truck155" type="truck_truck" depart="3100.00" from="4575938#4" to="-9636284#3"/>
+    <trip id="truck156" type="truck_truck" depart="3120.00" from="-4451964#0" to="4573055#0"/>
+    <trip id="truck157" type="truck_truck" depart="3140.00" from="116509366#0" to="4079421#0"/>
+    <trip id="truck158" type="truck_truck" depart="3160.00" from="156461530#9" to="4607365"/>
+    <trip id="truck159" type="truck_truck" depart="3180.00" from="-42701219#7" to="-23242351"/>
+    <trip id="truck160" type="truck_truck" depart="3200.00" from="-23755941" to="gneE20"/>
+    <trip id="truck161" type="truck_truck" depart="3220.00" from="192954700#4" to="-358793307#1"/>
+    <trip id="truck162" type="truck_truck" depart="3240.00" from="gneE74" to="-4575938#5"/>
+    <trip id="truck163" type="truck_truck" depart="3260.00" from="gneE28" to="4476020#0"/>
+    <trip id="truck164" type="truck_truck" depart="3280.00" from="23242346#0" to="-4534384#0"/>
+    <trip id="truck165" type="truck_truck" depart="3300.00" from="151654549" to="-4573121"/>
+    <trip id="truck166" type="truck_truck" depart="3320.00" from="-13853674#1" to="4079439#8"/>
+    <trip id="truck167" type="truck_truck" depart="3340.00" from="23416386#0" to="4475856#7"/>
+    <trip id="truck168" type="truck_truck" depart="3360.00" from="23463428" to="-4515440"/>
+    <trip id="truck169" type="truck_truck" depart="3380.00" from="-4451472" to="-120878502"/>
+    <trip id="truck170" type="truck_truck" depart="3400.00" from="30917547#1" to="-4711115#1"/>
+    <trip id="truck171" type="truck_truck" depart="3420.00" from="4515418#1" to="202949940#2"/>
+    <trip id="truck172" type="truck_truck" depart="3440.00" from="4515431#7" to="4573285"/>
+    <trip id="truck173" type="truck_truck" depart="3460.00" from="-4564729#2" to="-4418101#4"/>
+    <trip id="truck174" type="truck_truck" depart="3480.00" from="-156461530#3" to="23403555#1"/>
+    <trip id="truck175" type="truck_truck" depart="3500.00" from="4573076#0" to="23457617#0"/>
+    <trip id="truck176" type="truck_truck" depart="3520.00" from="-4433479#0" to="-4607374"/>
+    <trip id="truck177" type="truck_truck" depart="3540.00" from="4607335#2" to="-4621091#0"/>
+    <trip id="truck178" type="truck_truck" depart="3560.00" from="120879752#0" to="-116509359#1"/>
+    <trip id="truck179" type="truck_truck" depart="3580.00" from="-4607367#0" to="23463477#2"/>
+    <trip id="truck180" type="truck_truck" depart="3600.00" from="-631626600" to="-gneE69"/>
+    <trip id="truck181" type="truck_truck" depart="3620.00" from="4412474#0" to="179319748#1"/>
+    <trip id="truck182" type="truck_truck" depart="3640.00" from="4355893#5" to="-4451645"/>
+    <trip id="truck183" type="truck_truck" depart="3660.00" from="4412552" to="-4451641#2"/>
+    <trip id="truck184" type="truck_truck" depart="3680.00" from="4573109#0" to="23463477#3"/>
+    <trip id="truck185" type="truck_truck" depart="3700.00" from="4414271#1" to="gneE65"/>
+    <trip id="truck186" type="truck_truck" depart="3720.00" from="-9636284#14" to="4412474#3"/>
+    <trip id="truck187" type="truck_truck" depart="3740.00" from="-4575916#0" to="4575867#0"/>
+    <trip id="truck188" type="truck_truck" depart="3760.00" from="23457567#0" to="4515472#1"/>
+    <trip id="truck189" type="truck_truck" depart="3780.00" from="-244434400" to="4534384#3"/>
+    <trip id="truck190" type="truck_truck" depart="3800.00" from="-4575867#0" to="4313236"/>
+    <trip id="truck191" type="truck_truck" depart="3820.00" from="-130453477#1" to="4515521#2"/>
+    <trip id="truck192" type="truck_truck" depart="3840.00" from="-70218682" to="4515521#1"/>
+    <trip id="truck193" type="truck_truck" depart="3860.00" from="643124716" to="116509359#1"/>
+    <trip id="truck194" type="truck_truck" depart="3880.00" from="-121815455" to="-4711118#0"/>
+    <trip id="truck195" type="truck_truck" depart="3900.00" from="-156461530#1" to="-4573304#1"/>
+    <trip id="truck196" type="truck_truck" depart="3920.00" from="23457526" to="-4452481#1"/>
+    <trip id="truck197" type="truck_truck" depart="3940.00" from="23980453" to="-4476056#0"/>
+    <trip id="truck198" type="truck_truck" depart="3960.00" from="4711232#2" to="-31752693#0"/>
+    <trip id="truck199" type="truck_truck" depart="3980.00" from="168611036#0" to="-16811953#1"/>
+    <trip id="truck200" type="truck_truck" depart="4000.00" from="9636284#6" to="4476016#0"/>
+    <trip id="truck201" type="truck_truck" depart="4020.00" from="gneE130" to="-4451390#1"/>
+    <trip id="truck202" type="truck_truck" depart="4040.00" from="4475864#0" to="4451392#1"/>
+    <trip id="truck203" type="truck_truck" depart="4060.00" from="9665226" to="25598035#0"/>
+    <trip id="truck204" type="truck_truck" depart="4080.00" from="635745276" to="4437304"/>
+    <trip id="truck205" type="truck_truck" depart="4100.00" from="-4575942#3" to="585833405"/>
+    <trip id="truck206" type="truck_truck" depart="4120.00" from="23463477#2" to="gneE70"/>
+    <trip id="truck207" type="truck_truck" depart="4140.00" from="130453477#2" to="632410546#7"/>
+    <trip id="truck208" type="truck_truck" depart="4160.00" from="-4515438#1" to="-25797437"/>
+    <trip id="truck209" type="truck_truck" depart="4180.00" from="606256988#1" to="4227959#5"/>
+    <trip id="truck210" type="truck_truck" depart="4200.00" from="-4621095#0" to="-4414263#0"/>
+    <trip id="truck211" type="truck_truck" depart="4220.00" from="4414271#2" to="4414265#0"/>
+    <trip id="truck212" type="truck_truck" depart="4240.00" from="-70219060" to="4433479#2"/>
+    <trip id="truck213" type="truck_truck" depart="4260.00" from="164596209#1" to="16782123#0"/>
+    <trip id="truck214" type="truck_truck" depart="4280.00" from="-4573162#0" to="23433590#2"/>
+    <trip id="truck215" type="truck_truck" depart="4300.00" from="152245527" to="4433479#2"/>
+    <trip id="truck216" type="truck_truck" depart="4320.00" from="-4573109#1" to="222616094#7"/>
+    <trip id="truck217" type="truck_truck" depart="4340.00" from="-4421577#1" to="4451456#1"/>
+    <trip id="truck218" type="truck_truck" depart="4360.00" from="-16790454#1" to="32898712#0"/>
+    <trip id="truck219" type="truck_truck" depart="4380.00" from="116500379#1" to="4625707#3"/>
+    <trip id="truck220" type="truck_truck" depart="4400.00" from="-120878503#1" to="-119307730#1"/>
+    <trip id="truck221" type="truck_truck" depart="4420.00" from="4573069#1" to="4575870#0"/>
+    <trip id="truck222" type="truck_truck" depart="4440.00" from="606256988#2" to="4451474#2"/>
+    <trip id="truck223" type="truck_truck" depart="4460.00" from="-23433538#1" to="-4564728#0"/>
+    <trip id="truck224" type="truck_truck" depart="4480.00" from="-16780583" to="gneE78"/>
+    <trip id="truck225" type="truck_truck" depart="4500.00" from="-9636284#1" to="-164596209#1"/>
+    <trip id="truck226" type="truck_truck" depart="4520.00" from="gneE47" to="4607366#0"/>
+    <trip id="truck227" type="truck_truck" depart="4540.00" from="23463427" to="4708346"/>
+    <trip id="truck228" type="truck_truck" depart="4560.00" from="4515473" to="-31752909#0"/>
+    <trip id="truck229" type="truck_truck" depart="4580.00" from="4573121" to="-23463818#0"/>
+    <trip id="truck230" type="truck_truck" depart="4600.00" from="26710723" to="-196204771#0"/>
+    <trip id="truck231" type="truck_truck" depart="4620.00" from="-4575938#0" to="-4079440#1"/>
+    <trip id="truck232" type="truck_truck" depart="4640.00" from="-4607372#1" to="4476021#3"/>
+    <trip id="truck233" type="truck_truck" depart="4660.00" from="-116500355#0" to="-4573143#1"/>
+    <trip id="truck234" type="truck_truck" depart="4680.00" from="-4515404#2" to="-4476814#0"/>
+    <trip id="truck235" type="truck_truck" depart="4700.00" from="gneE71" to="61051435#1"/>
+    <trip id="truck236" type="truck_truck" depart="4720.00" from="23433538#0" to="-4515433"/>
+    <trip id="truck237" type="truck_truck" depart="4740.00" from="-23412227#0" to="119307730#2"/>
+    <trip id="truck238" type="truck_truck" depart="4760.00" from="-27937170#3" to="140016412"/>
+    <trip id="truck239" type="truck_truck" depart="4780.00" from="116500363" to="-130453480#0"/>
+    <trip id="truck240" type="truck_truck" depart="4800.00" from="4515435" to="23412227#0"/>
+    <trip id="truck241" type="truck_truck" depart="4820.00" from="-9636284#2" to="23457755"/>
+    <trip id="truck242" type="truck_truck" depart="4840.00" from="4515424#0" to="-4412467#1"/>
+    <trip id="truck243" type="truck_truck" depart="4860.00" from="-4515421#1" to="4421492#1"/>
+    <trip id="truck244" type="truck_truck" depart="4880.00" from="-4515403#6" to="4621163"/>
+    <trip id="truck245" type="truck_truck" depart="4900.00" from="4573076#0" to="4564726#0"/>
+    <trip id="truck246" type="truck_truck" depart="4920.00" from="4621161#1" to="-13853664#1"/>
+    <trip id="truck247" type="truck_truck" depart="4940.00" from="-4436924#1" to="-4607366#7"/>
+    <trip id="truck248" type="truck_truck" depart="4960.00" from="-gneE35" to="-4607337#0"/>
+    <trip id="truck249" type="truck_truck" depart="4980.00" from="4414266#0" to="-4573076#1"/>
+</routes>

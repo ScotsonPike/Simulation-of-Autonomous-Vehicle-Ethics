@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 08/07/20 15:58:04 by Eclipse SUMO duarouter Version 1.6.0
+<configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/duarouterConfiguration.xsd">
+
+    <input>
+        <net-file value="Canterbury.net.xml"/>
+        <route-files value="TempData/Rou/emergency.trip.xml"/>
+    </input>
+
+    <output>
+        <output-file value="TempData/Rou/emergency.trip.xml.tmp"/>
+        <write-trips value="true"/>
+    </output>
+
+    <time>
+        <begin value="0"/>
+        <end value="5000"/>
+    </time>
+
+    <report>
+        <no-warnings value="true"/>
+        <ignore-errors value="true"/>
+        <no-step-log value="true"/>
+    </report>
+
+</configuration>
+-->
+
+<routes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/routes_file.xsd">
+    <vType id="emergency_emergency" maxSpeed="100.00" vClass="emergency" color="white"/>
+    <trip id="emergency0" type="emergency_emergency" depart="0.00" from="-4573076#0" to="4607346#0"/>
+    <trip id="emergency1" type="emergency_emergency" depart="100.00" from="4515422#1" to="152245483#0"/>
+    <trip id="emergency2" type="emergency_emergency" depart="200.00" from="-4451474#1" to="4079440#0"/>
+    <trip id="emergency3" type="emergency_emergency" depart="300.00" from="132519084#0" to="4575916#1"/>
+    <trip id="emergency4" type="emergency_emergency" depart="400.00" from="-4476814#15" to="-4419376#2"/>
+    <trip id="emergency5" type="emergency_emergency" depart="500.00" from="4228004#0" to="4412553"/>
+    <trip id="emergency6" type="emergency_emergency" depart="600.00" from="23457614#1" to="-196204769#0"/>
+    <trip id="emergency7" type="emergency_emergency" depart="700.00" from="-31752906#0" to="4607348#0"/>
+    <trip id="emergency8" type="emergency_emergency" depart="800.00" from="-4515418#2" to="4079441#2"/>
+    <trip id="emergency9" type="emergency_emergency" depart="900.00" from="4476021#1" to="-202949940#0"/>
+    <trip id="emergency10" type="emergency_emergency" depart="1000.00" from="-26960394#1" to="-4451394#0"/>
+    <trip id="emergency11" type="emergency_emergency" depart="1100.00" from="4417802#0" to="23568152#3"/>
+    <trip id="emergency12" type="emergency_emergency" depart="1200.00" from="-4419553#1" to="4228004#0"/>
+    <trip id="emergency13" type="emergency_emergency" depart="1300.00" from="4079420#5" to="4079420#4"/>
+    <trip id="emergency14" type="emergency_emergency" depart="1400.00" from="4607367#2" to="4515432#1"/>
+    <trip id="emergency15" type="emergency_emergency" depart="1500.00" from="4621091#0" to="-201333641#2"/>
+    <trip id="emergency16" type="emergency_emergency" depart="1600.00" from="4515521#2" to="4607345"/>
+    <trip id="emergency17" type="emergency_emergency" depart="1700.00" from="-4573162#5" to="-23412226#1"/>
+    <trip id="emergency18" type="emergency_emergency" depart="1800.00" from="4607343" to="4607349#0"/>
+    <trip id="emergency19" type="emergency_emergency" depart="1900.00" from="-4573186#0" to="317479995#0"/>
+    <trip id="emergency20" type="emergency_emergency" depart="2000.00" from="gneE62" to="4421550#0"/>
+    <trip id="emergency21" type="emergency_emergency" depart="2100.00" from="4476016#3" to="-26444790#0"/>
+    <trip id="emergency22" type="emergency_emergency" depart="2200.00" from="241699174" to="-gneE60"/>
+    <trip id="emergency23" type="emergency_emergency" depart="2300.00" from="-4228004#1" to="-204783122#5"/>
+    <trip id="emergency24" type="emergency_emergency" depart="2400.00" from="26588280#4" to="-4451397#2"/>
+    <trip id="emergency25" type="emergency_emergency" depart="2500.00" from="4607376" to="4313271"/>
+    <trip id="emergency26" type="emergency_emergency" depart="2600.00" from="-196204769#1" to="4419380#5"/>
+    <trip id="emergency27" type="emergency_emergency" depart="2700.00" from="4515411#3" to="812847886#2"/>
+    <trip id="emergency28" type="emergency_emergency" depart="2800.00" from="-4476120" to="-164596209#0"/>
+    <trip id="emergency29" type="emergency_emergency" depart="2900.00" from="4573157#1" to="120297217"/>
+    <trip id="emergency30" type="emergency_emergency" depart="3000.00" from="4451639#4" to="-4515420"/>
+    <trip id="emergency31" type="emergency_emergency" depart="3100.00" from="-4451472" to="141113076#0"/>
+    <trip id="emergency32" type="emergency_emergency" depart="3200.00" from="-4573189#0" to="4515436#1"/>
+    <trip id="emergency33" type="emergency_emergency" depart="3300.00" from="4621095#0" to="-4451390#2"/>
+    <trip id="emergency34" type="emergency_emergency" depart="3400.00" from="4483769#8" to="-26588280#6"/>
+    <trip id="emergency35" type="emergency_emergency" depart="3500.00" from="168605551" to="-4575942#3"/>
+    <trip id="emergency36" type="emergency_emergency" depart="3600.00" from="23463477#2" to="-31752906#0"/>
+    <trip id="emergency37" type="emergency_emergency" depart="3700.00" from="145398963#6" to="23433538#1"/>
+    <trip id="emergency38" type="emergency_emergency" depart="3800.00" from="4564728#3" to="-119307730#0"/>
+    <trip id="emergency39" type="emergency_emergency" depart="3900.00" from="4355893#5" to="4475856#3"/>
+    <trip id="emergency40" type="emergency_emergency" depart="4000.00" from="4227959#2" to="4354121#7"/>
+    <trip id="emergency41" type="emergency_emergency" depart="4100.00" from="gneE10" to="-141113077"/>
+    <trip id="emergency42" type="emergency_emergency" depart="4200.00" from="-4573143#1" to="-16782123#2"/>
+    <trip id="emergency43" type="emergency_emergency" depart="4300.00" from="4515412#1" to="4515418#1"/>
+    <trip id="emergency44" type="emergency_emergency" depart="4400.00" from="gneE15" to="-4711120#3"/>
+    <trip id="emergency45" type="emergency_emergency" depart="4500.00" from="4534384#3" to="-4451474#4"/>
+    <trip id="emergency46" type="emergency_emergency" depart="4600.00" from="-4564726#4" to="-4419346#4"/>
+    <trip id="emergency47" type="emergency_emergency" depart="4700.00" from="145398963#0" to="4575866#0"/>
+    <trip id="emergency48" type="emergency_emergency" depart="4800.00" from="-204783122#5" to="4451639#4"/>
+    <trip id="emergency49" type="emergency_emergency" depart="4900.00" from="192954700#0" to="358793307#0"/>
+</routes>

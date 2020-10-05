@@ -1,0 +1,13 @@
+2020-08-13 16:22:46.229479
+ 
+Total Sim Time: 267.0461423397064
+Fitness       : 0.53
+
+Total Warnings: 4
+Teleports     : 167
+Collisions    : 1
+
+Warning: Vehicle 'train_Southeastern:_London_Charing_Cross_-_Ramsgate:0.2' performs emergency braking with decel=-5.00 wished=1.30 severity=1.00, time=1774.00.
+Warning: Vehicle 'train_Southeastern:_London_Charing_Cross_-_Ramsgate:0.3' performs emergency braking with decel=-5.00 wished=1.30 severity=1.00, time=2375.00.
+Warning: Vehicle 'veh2641' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=2938.00.
+Warning: Vehicle 'veh2233'; collision with vehicle 'veh2854', lane='-168593243_1', gap=-0.48, time=3469.00 stage=move.

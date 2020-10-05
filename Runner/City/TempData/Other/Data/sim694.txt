@@ -1,0 +1,14 @@
+2020-08-13 07:09:35.007572
+ 
+Total Sim Time: 211.96844911575317
+Fitness       : 0.6
+
+Total Warnings: 5
+Teleports     : 51
+Collisions    : 1
+
+Warning: Vehicle 'RedIn.0' performs emergency braking with decel=-7.00 wished=4.00 severity=1.00, time=54.00.
+Warning: Vehicle 'RedIn.0' collision with person 'ped27', lane='-61051435#0_0', gap=-2.14, time=54.00 stage=move.
+Warning: Vehicle 'veh839' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=1140.00.
+Warning: Vehicle 'veh2916' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=3483.00.
+Warning: Vehicle 'veh3118' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=3536.00.

@@ -1,0 +1,14 @@
+2020-08-11 01:33:34.245775
+ 
+Total Sim Time: 274.6944680213928
+Fitness       : 0.28
+
+Total Warnings: 5
+Teleports     : 806
+Collisions    : 0
+
+Warning: Vehicle 'veh1688' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=1970.00.
+Warning: Vehicle 'train_Southeastern:_London_Charing_Cross_-_Ramsgate:0.3' performs emergency braking with decel=-5.00 wished=1.30 severity=1.00, time=2378.00.
+Warning: Vehicle 'veh720' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=3246.00.
+Warning: Vehicle 'veh1357' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=3569.00.
+Warning: Vehicle 'train_Southeastern:_London_Charing_Cross_-_Ramsgate:0.5' performs emergency braking with decel=-5.00 wished=1.30 severity=1.00, time=3577.00.

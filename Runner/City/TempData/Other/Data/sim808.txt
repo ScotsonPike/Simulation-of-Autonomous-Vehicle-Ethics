@@ -1,0 +1,11 @@
+2020-08-13 14:13:17.668487
+ 
+Total Sim Time: 203.12780570983887
+Fitness       : 0.6
+
+Total Warnings: 2
+Teleports     : 0
+Collisions    : 0
+
+Warning: Vehicle 'RedIn.2' performs emergency braking with decel=-7.00 wished=4.00 severity=1.00, time=1855.00.
+Warning: Vehicle 'veh1728' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=2076.00.

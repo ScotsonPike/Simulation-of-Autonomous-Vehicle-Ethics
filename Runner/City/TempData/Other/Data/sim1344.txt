@@ -1,0 +1,15 @@
+2020-08-20 18:30:41.055668
+ 
+Total Sim Time: 447.5329282283783
+Fitness       : 0.57
+
+Total Warnings: 6
+Teleports     : 6
+Collisions    : 0
+
+Warning: Vehicle 'pCar1163_0' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=1135.00.
+Warning: Vehicle 'pCar2164_0' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=2024.00.
+Warning: Vehicle 'pCar2234_0' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=2096.00.
+Warning: Vehicle 'truck126' performs emergency braking with decel=-7.00 wished=4.00 severity=1.00, time=2558.00.
+Warning: Vehicle 'truck155' performs emergency braking with decel=-7.00 wished=4.00 severity=1.00, time=3151.00.
+Warning: Vehicle 'veh1712' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=3302.00.

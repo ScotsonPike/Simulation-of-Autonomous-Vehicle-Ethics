@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 07/21/20 09:55:54 by Eclipse SUMO netconvert Version 1.6.0
+<configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/netconvertConfiguration.xsd">
+
+    <input>
+        <osm-files value="Thanet.osm"/>
+    </input>
+
+    <output>
+        <human-readable-time value="true"/>
+        <output-file value="Thanet.net.xml"/>
+        <ptstop-output value="Thanet.add.xml"/>
+        <ptline-output value="ptlines.xml"/>
+        <parking-output value="parking.add.xml"/>
+    </output>
+
+    <projection>
+        <proj.utm value="true"/>
+    </projection>
+
+    <processing>
+        <geometry.remove value="true"/>
+        <roundabouts.guess value="true"/>
+        <lefthand value="true"/>
+    </processing>
+
+    <tls_building>
+        <tls.discard-simple value="true"/>
+        <tls.join value="true"/>
+        <tls.guess-signals value="true"/>
+        <tls.default-type value="actuated"/>
+    </tls_building>
+
+    <ramp_guessing>
+        <ramps.guess value="true"/>
+    </ramp_guessing>
+
+    <junctions>
+        <junctions.join value="true"/>
+    </junctions>
+
+    <pedestrian>
+        <sidewalks.guess value="true"/>
+        <crossings.guess value="true"/>
+    </pedestrian>
+
+    <railway>
+        <railway.topology.repair value="true"/>
+        <railway.topology.repair.stop-turn value="true"/>
+    </railway>
+
+    <formats>
+        <osm.stop-output.length value="20"/>
+    </formats>
+
+    <report>
+        <aggregate-warnings value="5"/>
+        <ignore-errors value="true"/>
+    </report>
+
+</configuration>
+-->
+
+<ptLines xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/ptlines_file.xsd">
+    <ptLine id="227088" name="Thanet Loop" line="Thanet Loop" type="bus" vClass="bus" completeness="0.25">
+        <route edges="564805041"/>
+        <busStop id="502559872" name="Churchfields"/>
+    </ptLine>
+    <ptLine id="2639526" name="Ashford-Ramsgate" line="Ashford-Ramsgate" type="train" vClass="rail" completeness="0.33">
+        <route edges="194443031#0 194443031#1 194443031#2 194443031#3 195099332#1 195035150#1 196267947#1 196267947#2 196267947#3 195650390#1 194944039#1 194944039#2 194252175#0 194252175#1 194252175#2 451186209 196267946#1 194252176#1 196556526#1"/>
+        <busStop id="2047734188" name="Minster"/>
+    </ptLine>
+    <ptLine id="8307582" name="34 (Minnis Bay to Ramsgate)" line="34" type="bus" vClass="bus" completeness="1.00">
+        <route edges="-589090018#7 -589090018#6 -589090018#5 -589090018#4 -589090018#2 -589090018#1 -607951334#1 -607951334#0 -148182124 -30722753#4 -30722753#2 -30722753#1 -30722753#0 -658764973#4 -658764973#3 -658764973#2 -658764973#1 -658764973#0 -30722758#4 -30722758#3 -30722758#2 -30722758#1 -30722758#0 -147963756#2 -147963756#1 -147963756#0 147963752#0 147963752#1 147963752#3 147963752#4 147963752#5 147963752#6 147963752#7 147963752#8 147963752#9 607951329#1 607951329#2 607951329#3 607951329#4 607951329#5 607951329#6 147963754#2 147963754#3 147963754#4 147963754#7 147963754#8 147963754#9 147963754#11 105135738#0 105135738#1 105135736#0 105135736#1 105135737#0 105135737#1 105135737#2 105135737#4 105135737#5 105135737#6 23418626#0 23418626#1 607951330#0 607951330#1 607951330#2 607951330#3 607951330#4 607951330#5 607951330#6 -137723374#10 -137723374#9 -137723374#7 -137723374#6 -137723374#5 -137723374#3 -137723374#2 -137723374#1 -137723374#0 -137723373#0 -44612997#6 -44612997#5 -44612997#4 -44612997#2 -44612997#1 -30891761#6 -30891761#5 -30891761#2 -30891761#1 -30891761#0 -148181789 30891752#0 30891752#1 30891752#2 30891751#0 30891751#1 30891751#2 30891751#3 30891751#4 30891751#5 30891751#6 30891751#9"/>
+        <busStop id="502559872" name="Churchfields"/>
+    </ptLine>
+    <ptLine id="9890975" name="Southeastern: Ramsgate - London Charing Cross" line="Southeastern: Ramsgate - London Charing Cross" type="train" vClass="rail" completeness="0.06">
+        <route edges="196267934#0 196267934#1 13747352#1 194296515#1 451186208#0 451186208#1 451186208#2 451186208#3 4478805#0 4478805#1 4478805#2 194944036#1 195650387#1 195650387#2 195650387#3 194937918#1 195035151#1 195035151#2 195099329#1 195099329#2 195099329#3"/>
+        <busStop id="27457103" name="Minster"/>
+    </ptLine>
+    <ptLine id="9890977" name="Southeastern: London Charing Cross - Ramsgate" line="Southeastern: London Charing Cross - Ramsgate" type="train" vClass="rail" completeness="0.06">
+        <route edges="194443031#0 194443031#1 194443031#2 194443031#3 195099332#1 195035150#1 196267947#1 196267947#2 196267947#3 195650390#1 194944039#1 194944039#2 194252175#0 194252175#1 194252175#2 451186209 196267946#1 194252176#1 196556526#1"/>
+        <busStop id="2047734188" name="Minster"/>
+    </ptLine>
+    <ptLine id="9964793" name="Southeastern: London Vic - Ramsgate" line="Southeastern: London Vic - Ramsgate" type="train" vClass="rail" completeness="0.18">
+        <route edges="197265770#0 197265770#1 30852055#0 30852055#1 30852055#2 30852055#3 30852055#4 30307302 4594092 4478806 30725167 30725166 30693107#0 30693107#1"/>
+        <busStop id="6743987512" name="Birchington-on-Sea"/>
+        <busStop id="29045443" name="Westgate-on-Sea"/>
+        <busStop id="339821475" name="Margate"/>
+    </ptLine>
+    <ptLine id="9964794" name="Southeastern: Ramsgate - London Vic" line="Southeastern: Ramsgate - London Vic" type="train" vClass="rail" completeness="0.18">
+        <route edges="311074729 311074716#1 311074716#2 368956793#0 368956793#1 311074736 476429186 310977210 310977200#1 310977200#2 310977200#3 310977200#4 310977201 310977220#1"/>
+        <busStop id="3166212876" name="Margate"/>
+        <busStop id="3166212698" name="Westgate-on-Sea"/>
+        <busStop id="6743987511" name="Birchington-on-Sea"/>
+    </ptLine>
+</ptLines>

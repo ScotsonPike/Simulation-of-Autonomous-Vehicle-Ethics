@@ -1,0 +1,10 @@
+2020-08-13 02:20:34.767980
+ 
+Total Sim Time: 218.52685809135437
+Fitness       : 0.55
+
+Total Warnings: 1
+Teleports     : 105
+Collisions    : 0
+
+Warning: Vehicle 'train_Southeastern:_London_Charing_Cross_-_Ramsgate:0.3' performs emergency braking with decel=-5.00 wished=1.30 severity=1.00, time=2377.00.

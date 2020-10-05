@@ -1,0 +1,1193 @@
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar2' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar3' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar4' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar6' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar7' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar8' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar12' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar13' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar14' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar15' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar17' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar18' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar20' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar22' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar23' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar24' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar31' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar33' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar35' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar36' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar38' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar39' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar40' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar41' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar43' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar45' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar48' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar49' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar50' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar51' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar54' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar55' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar58' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar61' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar62' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar63' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar64' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar65' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar68' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar69' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar72' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar77' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar78' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar79' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar81' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar83' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar84' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar87' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar90' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar91' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar94' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar95' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar97' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar98' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar101' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar102' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar103' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar104' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar106' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar107' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar110' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar113' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar116' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar117' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar120' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar122' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar123' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar125' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar126' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar127' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar130' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar133' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar134' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar135' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar136' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar139' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar140' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar141' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar142' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar146' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar149' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar151' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar152' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar154' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar160' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar161' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar167' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar169' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar177' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar178' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar179' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar181' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar184' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar186' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar188' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar189' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar190' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar191' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar193' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar194' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar195' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar197' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar199' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar204' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar205' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar206' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar208' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar209' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar210' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar211' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar212' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar215' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar216' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar218' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar220' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar221' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar222' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar223' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar225' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar226' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar227' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar228' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar229' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar230' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar235' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar237' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar240' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar241' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar243' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar245' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar246' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar247' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar250' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar251' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar252' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar253' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar255' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar256' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar259' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar260' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar261' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar265' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar266' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar268' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar269' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar270' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar271' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar274' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar275' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar276' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar278' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar280' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar281' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar285' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar286' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar287' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar289' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar290' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar291' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar293' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar294' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar298' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar299' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar300' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar303' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar304' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar305' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar306' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar307' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar308' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar310' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar311' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar312' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar315' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar317' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar319' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar322' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar326' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar328' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar329' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar334' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar337' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar341' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar343' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar344' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar345' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar346' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar347' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar349' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar350' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar351' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar353' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar354' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar356' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar362' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar363' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar364' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar365' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar369' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar372' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar373' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar374' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar375' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar376' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar377' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar379' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar380' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar382' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar386' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar387' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar388' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar390' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar394' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar396' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar397' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar398' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar401' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar402' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar407' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar408' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar409' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar410' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar414' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar416' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar420' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar422' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar423' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar424' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar425' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar427' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar429' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar431' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar434' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar436' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar437' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar440' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar443' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar444' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar449' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar450' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar451' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar452' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar453' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar454' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar459' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar461' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar465' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar466' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar469' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar471' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar473' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar474' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar475' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar477' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar479' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar481' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar482' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar485' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar487' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar492' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar493' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar494' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar496' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar498' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar499' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar500' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar501' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar502' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar504' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar508' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar509' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar511' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar513' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar515' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar521' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar522' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar523' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar524' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar527' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar528' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar530' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar531' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar534' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar535' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar537' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar538' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar539' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar542' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar546' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar548' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar549' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar550' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar555' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar556' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar557' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar562' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar564' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar567' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar568' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar571' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar572' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar573' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar574' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar575' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar578' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar579' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar580' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar581' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar582' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar583' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar584' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar588' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar589' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar590' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar592' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar593' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar595' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar596' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar599' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar601' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar603' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar604' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar605' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar609' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar610' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar612' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar613' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar614' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar617' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar618' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar621' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar623' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar624' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar625' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar627' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar628' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar630' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar631' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar632' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar633' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar635' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar636' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar637' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar638' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar639' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar640' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar641' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar645' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar647' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar648' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar650' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar651' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar652' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar656' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar659' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar660' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar663' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar664' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar666' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar667' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar670' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar674' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar675' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar679' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar680' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar682' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar683' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar686' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar688' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar689' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar690' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar691' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar695' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar697' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar700' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar701' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar702' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar704' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar706' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar707' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar708' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar709' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar710' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar711' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar712' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar713' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar714' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar715' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar716' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar718' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar722' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar723' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar733' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar734' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar735' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar736' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar737' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar738' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar739' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar741' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar742' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar743' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar744' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar746' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar747' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar749' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar752' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar754' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar756' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar757' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar762' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar763' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar765' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar767' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar768' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar770' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar772' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar774' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar775' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar776' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar778' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar779' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar780' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar782' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar784' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar785' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar786' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar787' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar788' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar790' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar791' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar793' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar794' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar795' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar799' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar801' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar803' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar805' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar806' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar807' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar808' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar809' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar811' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar812' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar820' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar821' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar822' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar823' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar825' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar827' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar828' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar829' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar830' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar831' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar832' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar834' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar836' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar839' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar841' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar843' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar844' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar845' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar847' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar848' because it is not allowed on the start edge.
+Warning: Vehicle 'pCar781_0' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=774.00.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar850' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar851' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar852' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar854' because it is not allowed on the start edge.
+Warning: Person 'pCar683' is jammed on edge ':27435715_c0', time=779.00.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar857' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar858' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar860' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar861' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar863' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar865' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar868' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar869' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar870' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar871' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar872' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar875' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar876' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar877' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar878' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar880' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar884' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar885' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar889' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar891' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar893' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar894' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar895' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar896' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar897' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar899' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar901' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar903' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar904' because it is not allowed on the start edge.
+Warning: Person 'pCar886' is jammed on edge ':gneJ54_c0', time=825.00.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar906' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar907' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar910' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar912' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar915' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar916' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar918' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar919' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar924' because it is not allowed on the start edge.
+Warning: Person 'pCar216' is jammed on edge ':gneJ54_c0', time=842.00.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar926' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar928' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar929' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar934' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar935' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar936' because it is not allowed on the start edge.
+Warning: Teleporting vehicle 'veh275'; waited too long (yield), lane='-156461530#3_1', time=855.00.
+Warning: Vehicle 'veh275' ends teleporting on edge '-156461530#1', time 855.00.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar940' because it is not allowed on the start edge.
+Warning: Teleporting vehicle 'pCar600_0'; waited too long (yield), lane='156461530#3_1', time=857.00.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar941' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar942' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar943' because it is not allowed on the start edge.
+Warning: Vehicle 'pCar600_0' ends teleporting on edge '-156461530#1', time 859.00.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar945' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar946' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar947' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar949' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar950' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar951' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar953' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar954' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar955' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar956' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar958' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar960' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar962' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar963' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar965' because it is not allowed on the start edge.
+Warning: Person 'pCar309' is jammed on edge ':cluster_2050661579_27003806_w1', time=881.00.
+Warning: Teleporting vehicle 'bik1'; waited too long (jam), lane=':3471932458_0_0', time=881.00.
+Warning: Vehicle 'bik1' ends teleporting on edge '156461530#1', time 881.00.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar970' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar971' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar972' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar974' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar975' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar976' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar977' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar980' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar981' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar982' because it is not allowed on the start edge.
+Warning: Person 'pCar725' is jammed on edge ':gneJ54_c0', time=895.00.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar984' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar987' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar988' because it is not allowed on the start edge.
+Warning: Person 'ped390' is jammed on edge ':27435715_c0', time=901.00.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar990' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar993' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar995' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar996' because it is not allowed on the start edge.
+Warning: Person 'pCar727' is jammed on edge ':gneJ54_c0', time=909.00.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1000' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1005' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1007' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1010' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1013' because it is not allowed on the start edge.
+Warning: Teleporting vehicle 'pCar657_0'; waited too long (yield), lane='4475856#9_1', time=923.00.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1015' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1016' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1019' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1022' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1023' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1025' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1026' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1027' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1028' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1029' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1031' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1033' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1034' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1035' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1038' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1039' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1045' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1046' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1048' because it is not allowed on the start edge.
+Warning: Teleporting vehicle 'veh262'; waited too long (jam), lane='31752693#1_1', time=955.00.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1051' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1052' because it is not allowed on the start edge.
+Warning: Person 'ped119' is jammed on edge ':cluster_2050661579_27003806_w3', time=961.00.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1057' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1058' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1061' because it is not allowed on the start edge.
+Warning: Person 'ped26' is jammed on edge ':cluster_2050661579_27003806_w3', time=969.00.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1065' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1067' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1069' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1070' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1071' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1072' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1075' because it is not allowed on the start edge.
+Warning: Person 'pCar158' is jammed on edge ':cluster_2050661579_27003806_w1', time=981.00.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1078' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1080' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1081' because it is not allowed on the start edge.
+Warning: Person 'pCar84' is jammed on edge ':cluster_2050661579_27003806_w0', time=986.00.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1085' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1086' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1089' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1090' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1092' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1093' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1095' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1097' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1098' because it is not allowed on the start edge.
+Warning: Person 'ped253' is jammed on edge ':cluster_2050661579_27003806_w2', time=1001.00.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1100' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1102' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1103' because it is not allowed on the start edge.
+Warning: Vehicle 'pCar657_0' ends teleporting on edge '-156461530#1', time 1004.00.
+Warning: Person 'ped177' is jammed on edge ':cluster_2050661579_27003806_w3', time=1005.00.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1104' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1105' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1107' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1108' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1110' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1114' because it is not allowed on the start edge.
+Warning: Person 'pCar350' is jammed on edge ':cluster_2050661579_27003806_w2', time=1015.00.
+Warning: Person 'pCar596' is jammed on edge ':cluster_2050661579_27003806_w3', time=1015.00.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1116' because it is not allowed on the start edge.
+Warning: Person 'pCar525' is jammed on edge ':cluster_2050661579_27003806_w0', time=1017.00.
+Warning: Person 'pCar618' is jammed on edge ':cluster_2050661579_27003806_w1', time=1017.00.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1118' because it is not allowed on the start edge.
+Warning: Person 'pCar205' is jammed on edge ':cluster_2050661579_27003806_w2', time=1019.00.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1125' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1126' because it is not allowed on the start edge.
+Warning: Person 'pCar84' is jammed on edge ':331109856_c0', time=1027.00.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1128' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1130' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1131' because it is not allowed on the start edge.
+Warning: Vehicle 'veh262' ends teleporting on edge '156461530#4', time 1030.00.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1133' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1135' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1136' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1137' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1138' because it is not allowed on the start edge.
+Warning: Person 'pCar84' is jammed on edge ':331109856_c0', time=1039.00.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1142' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1143' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1144' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1145' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1147' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1148' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1149' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1153' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1154' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1156' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1157' because it is not allowed on the start edge.
+Warning: Person 'pCar589' is jammed on edge ':cluster_2050661579_27003806_w0', time=1055.00.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1159' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1160' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1161' because it is not allowed on the start edge.
+Warning: Person 'pCar442' is jammed on edge ':cluster_2050661579_27003806_w1', time=1058.00.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1162' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1163' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1164' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1165' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1167' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1169' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1173' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1174' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1175' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1177' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1178' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1182' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1187' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1188' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1189' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1190' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1191' because it is not allowed on the start edge.
+Warning: Person 'ped114' is jammed on edge ':cluster_2050661579_27003806_w1', time=1085.00.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1192' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1198' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1199' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1204' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1205' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1207' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1211' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1212' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1214' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1215' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1218' because it is not allowed on the start edge.
+Warning: Person 'ped429' is jammed on edge ':cluster_1654393901_20983173_254040550_c0', time=1111.00.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1220' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1221' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1224' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1225' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1226' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1227' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1228' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1230' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1232' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1233' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1238' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1240' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1241' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1244' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1245' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1247' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1248' because it is not allowed on the start edge.
+Warning: Person 'pCar169' is jammed on edge ':cluster_2050661579_27003806_w0', time=1137.00.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1251' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1255' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1256' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1257' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1258' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1259' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1261' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1264' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1266' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1268' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1269' because it is not allowed on the start edge.
+Warning: Person 'pCar1104' is jammed on edge ':gneJ54_c0', time=1159.00.
+Warning: Teleporting vehicle 'pCar565_0'; waited too long (yield), lane='-156461530#3_1', time=1160.00.
+Warning: Vehicle 'pCar565_0' ends teleporting on edge '-156461530#1', time 1160.00.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1275' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1276' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1277' because it is not allowed on the start edge.
+Warning: Person 'ped205' is jammed on edge ':cluster_2050661579_27003806_w3', time=1164.00.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1279' because it is not allowed on the start edge.
+Warning: Person 'pCar55' is jammed on edge ':cluster_2050661579_27003806_w3', time=1165.00.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1280' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1281' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1286' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1288' because it is not allowed on the start edge.
+Warning: Teleporting vehicle 'veh331'; waited too long (jam), lane='-156461530#8_1', time=1175.00.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1291' because it is not allowed on the start edge.
+Warning: Teleporting vehicle 'veh379'; waited too long (jam), lane='-156461530#5_1', time=1177.00.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1293' because it is not allowed on the start edge.
+Warning: Vehicle 'veh331' ends teleporting on edge '-156461530#5', time 1177.00.
+Warning: Person 'pCar450' is jammed on edge ':cluster_2050661579_27003806_w2', time=1178.00.
+Warning: Person 'ped216' is jammed on edge ':cluster_2050661579_27003806_w2', time=1178.00.
+Warning: Vehicle 'train_Southeastern:_London_Charing_Cross_-_Ramsgate:0.1' performs emergency braking with decel=-5.00 wished=1.30 severity=1.00, time=1178.00.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1295' because it is not allowed on the start edge.
+Warning: Teleporting vehicle 'pCar846_0'; waited too long (yield), lane='4419346#4_1', time=1180.00.
+Warning: Teleporting vehicle 'bik1'; waited too long (yield), lane='156461530#1_1', time=1182.00.
+Warning: Teleporting vehicle 'pCar859_0'; waited too long (jam), lane='-156461530#9_1', time=1182.00.
+Warning: Vehicle 'bik1' ends teleporting on edge '156461530#3', time 1182.00.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1299' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1300' because it is not allowed on the start edge.
+Warning: Person 'pCar483' is jammed on edge ':cluster_2050661579_27003806_w1', time=1185.00.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1303' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1308' because it is not allowed on the start edge.
+Warning: Teleporting vehicle 'veh299'; waited too long (jam), lane='4412639_1', time=1192.00.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1309' because it is not allowed on the start edge.
+Warning: Person 'ped245' is jammed on edge ':cluster_2050661579_27003806_w3', time=1194.00.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1311' because it is not allowed on the start edge.
+Warning: Person 'pCar538' is jammed on edge ':cluster_2050661579_27003806_w2', time=1195.00.
+Warning: Person 'pCar524' is jammed on edge ':cluster_2050661579_27003806_w2', time=1196.00.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1314' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1316' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1317' because it is not allowed on the start edge.
+Warning: Person 'pCar483' is jammed on edge ':cluster_2050661579_27003806_c1', time=1200.00.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1319' because it is not allowed on the start edge.
+Warning: Person 'pCar1101' is jammed on edge ':gneJ51_c0', time=1202.00.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1320' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1321' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1324' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1325' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1326' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1331' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1332' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1333' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1334' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1335' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1336' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1337' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1338' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1340' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1342' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1346' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1347' because it is not allowed on the start edge.
+Warning: Teleporting vehicle 'veh322'; waited too long (yield), lane='4475856#9_1', time=1228.00.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1350' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1353' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1354' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1356' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1357' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1363' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1364' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1366' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1367' because it is not allowed on the start edge.
+Warning: Teleporting vehicle 'veh428'; waited too long (yield), lane='4575855#2_1', time=1245.00.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1368' because it is not allowed on the start edge.
+Warning: Vehicle 'pCar846_0' ends teleporting on edge '-156461530#1', time 1247.00.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1373' because it is not allowed on the start edge.
+Warning: Vehicle 'veh428' ends teleporting on edge '222616094#1', time 1250.00.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1374' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1378' because it is not allowed on the start edge.
+Warning: Teleporting vehicle 'veh413'; waited too long (yield), lane='4575855#2_0', time=1256.00.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1380' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1381' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1382' because it is not allowed on the start edge.
+Warning: Vehicle 'veh379' ends teleporting on edge '-156461530#1', time 1258.00.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1383' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1384' because it is not allowed on the start edge.
+Warning: Vehicle 'veh413' ends teleporting on edge '222616094#1', time 1261.00.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1386' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1387' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1389' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1390' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1391' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1392' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1394' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1396' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1397' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1398' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1401' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1402' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1407' because it is not allowed on the start edge.
+Warning: Teleporting vehicle 'truck27'; waited too long (jam), lane='316573936#0_1', time=1283.00.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1411' because it is not allowed on the start edge.
+Warning: Teleporting vehicle 'pCar629_0'; waited too long (yield), lane='-341475040#0_1', time=1286.00.
+Warning: Teleporting vehicle 'truck34'; waited too long (yield), lane='316573934#1_1', time=1287.00.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1414' because it is not allowed on the start edge.
+Warning: Vehicle 'truck34' ends teleporting on edge 'gneE165', time 1287.00.
+Warning: Teleporting vehicle 'pCar759_0'; waited too long (jam), lane='4412553_1', time=1288.00.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1415' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1417' because it is not allowed on the start edge.
+Warning: Teleporting vehicle 'veh275'; waited too long (yield), lane='-31752693#0_1', time=1291.00.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1418' because it is not allowed on the start edge.
+Warning: Vehicle 'veh275' ends teleporting on edge 'gneE164', time 1291.00.
+Warning: Vehicle 'veh299' ends teleporting on edge '156461530#3', time 1291.00.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1419' because it is not allowed on the start edge.
+Warning: Teleporting vehicle 'pCar879_0'; waited too long (jam), lane='165380010_1', time=1293.00.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1423' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1425' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1428' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1430' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1431' because it is not allowed on the start edge.
+Warning: Person 'ped60' is jammed on edge ':cluster_2050661579_27003806_w1', time=1304.00.
+Warning: Person 'pCar651' is jammed on edge ':cluster_2050661579_27003806_w1', time=1305.00.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1433' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1435' because it is not allowed on the start edge.
+Warning: Vehicle 'pCar879_0' ends teleporting on edge '-316573936#1', time 1306.00.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1436' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1437' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1438' because it is not allowed on the start edge.
+Warning: Vehicle 'veh322' ends teleporting on edge '-156461530#1', time 1309.00.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1440' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1442' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1443' because it is not allowed on the start edge.
+Warning: Teleporting vehicle 'pCar1053_0'; waited too long (wrong lane), lane='222616094#0_1', time=1315.00.
+Warning: Vehicle 'pCar759_0' ends teleporting on edge 'gneE167', time 1315.00.
+Warning: Teleporting vehicle 'veh507'; waited too long (jam), lane=':21484457_2_1', time=1316.00.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1446' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1447' because it is not allowed on the start edge.
+Warning: Vehicle 'veh507' ends teleporting on edge '222616094#1', time 1318.00.
+Warning: Person 'pCar708' is jammed on edge ':cluster_2050661579_27003806_w3', time=1321.00.
+Warning: Vehicle 'truck27' ends teleporting on edge 'gneE167', time 1321.00.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1452' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1453' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1454' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1455' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1457' because it is not allowed on the start edge.
+Warning: Person 'pCar186' is jammed on edge ':cluster_2050661579_27003806_w0', time=1329.00.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1468' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1469' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1470' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1471' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1473' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1474' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1475' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1478' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1480' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1483' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1484' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1485' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1486' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1487' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1488' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1492' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1493' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1496' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1500' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1501' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1503' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1504' because it is not allowed on the start edge.
+Warning: Vehicle 'pCar859_0' ends teleporting on edge '-156461530#1', time 1371.00.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1507' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1509' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1510' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1511' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1513' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1514' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1517' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1518' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1519' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1522' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1523' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1528' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1529' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1531' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1532' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1539' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1540' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1543' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1544' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1548' because it is not allowed on the start edge.
+Warning: Person 'pCar1301' is jammed on edge ':gneJ51_c0', time=1410.00.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1549' because it is not allowed on the start edge.
+Warning: Person 'pCar755' is jammed on edge ':cluster_2050661579_27003806_w1', time=1411.00.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1550' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1551' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1552' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1554' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1555' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1556' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1557' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1560' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1563' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1564' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1570' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1571' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1574' because it is not allowed on the start edge.
+Warning: Person 'pCar1398' is jammed on edge ':25229702_c0', time=1434.00.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1576' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1577' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1579' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1583' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1584' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1588' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1591' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1592' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1595' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1596' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1597' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1600' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1602' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1603' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1604' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1608' because it is not allowed on the start edge.
+Warning: Teleporting vehicle 'pCar559_0'; waited too long (yield), lane='-156461530#3_1', time=1465.00.
+Warning: Vehicle 'pCar559_0' ends teleporting on edge '-156461530#1', time 1465.00.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1610' because it is not allowed on the start edge.
+Warning: Person 'ped330' is jammed on edge ':cluster_2050661579_27003806_w3', time=1467.00.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1611' because it is not allowed on the start edge.
+Warning: Vehicle 'pCar629_0' ends teleporting on edge '156461530#3', time 1467.00.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1613' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1614' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1620' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1626' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1628' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1629' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1630' because it is not allowed on the start edge.
+Warning: Teleporting vehicle 'pCar1011_0'; waited too long (yield), lane='4419346#4_1', time=1485.00.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1631' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1632' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1633' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1634' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1636' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1638' because it is not allowed on the start edge.
+Warning: Teleporting vehicle 'veh591'; waited too long (yield), lane='4355893#9_1', time=1493.00.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1640' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1641' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1643' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1644' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1646' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1648' because it is not allowed on the start edge.
+Warning: Teleporting vehicle 'PinkIn.1'; waited too long (jam), lane='812847886#4_1', time=1501.00.
+Warning: Teleporting vehicle 'pCar626_0'; waited too long (jam), lane='31752693#0_1', time=1501.00.
+Warning: Vehicle 'veh591' ends teleporting on edge '812847886#4', time 1501.00.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1650' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1651' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1653' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1654' because it is not allowed on the start edge.
+Warning: Teleporting vehicle 'veh340'; waited too long (yield), lane='120297217_1', time=1507.00.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1655' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1657' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1658' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1659' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1660' because it is not allowed on the start edge.
+Warning: Person 'ped716' is jammed on edge ':cluster_1654393901_20983173_254040550_c0', time=1513.00.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1662' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1663' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1664' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1665' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1666' because it is not allowed on the start edge.
+Warning: Person 'pCar1550' is jammed on edge ':25229702_c0', time=1518.00.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1668' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1669' because it is not allowed on the start edge.
+Warning: Vehicle 'pCar1011_0' ends teleporting on edge '-156461530#3', time 1522.00.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1675' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1676' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1679' because it is not allowed on the start edge.
+Warning: Person 'pCar240' is jammed on edge ':gneJ54_c0', time=1531.00.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1683' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1687' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1688' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1689' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1690' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1691' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1692' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1693' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1697' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1698' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1700' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1701' because it is not allowed on the start edge.
+Warning: Teleporting vehicle 'pCar952_0'; waited too long (yield), lane='4575855#2_1', time=1550.00.
+Warning: Vehicle 'pCar952_0' ends teleporting on edge '222616094#1', time 1552.00.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1706' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1707' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1708' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1712' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1713' because it is not allowed on the start edge.
+Warning: Vehicle 'PinkIn.1' skips stop on lane '-156461530#8_1' time=1559.00.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1715' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1720' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1721' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1723' because it is not allowed on the start edge.
+Warning: Vehicle 'pCar1053_0' ends teleporting on edge 'gneE167', time 1568.00.
+Warning: Vehicle 'veh340' ends teleporting on edge '-31752656#1', time 1570.00.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1731' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1732' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1733' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1734' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1738' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1739' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1740' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1742' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1744' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1746' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1748' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1751' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1752' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1753' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1754' because it is not allowed on the start edge.
+Warning: Vehicle 'pCar626_0' ends teleporting on edge '156461530#3', time 1597.00.
+Warning: Teleporting vehicle 'veh318'; waited too long (jam), lane='23412227#1_1', time=1598.00.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1755' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1756' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1757' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1759' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1760' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1762' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1763' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1769' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1770' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1772' because it is not allowed on the start edge.
+Warning: Vehicle 'PinkIn.1' ends teleporting on edge '-156461530#5', time 1613.00.
+Warning: Person 'pCar432' is jammed on edge ':gneJ54_c0', time=1616.00.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1775' because it is not allowed on the start edge.
+Warning: Person 'pCar1270' is jammed on edge ':251472921_c0', time=1618.00.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1780' because it is not allowed on the start edge.
+Warning: Person 'pCar929' is jammed on edge ':gneJ54_c0', time=1621.00.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1781' because it is not allowed on the start edge.
+Warning: Person 'pCar23' is jammed on edge ':251472921_c0', time=1622.00.
+Warning: Person 'pCar929' is jammed on edge ':gneJ54_c0', time=1623.00.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1783' because it is not allowed on the start edge.
+Warning: Teleporting vehicle 'veh355'; waited too long (yield), lane='4412551_1', time=1624.00.
+Warning: Person 'pCar1576' is jammed on edge ':gneJ54_c0', time=1626.00.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1789' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1791' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1792' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1795' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1797' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1798' because it is not allowed on the start edge.
+Warning: Person 'pCar1576' is jammed on edge ':gneJ54_c0', time=1638.00.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1799' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1800' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1801' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1805' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1807' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1809' because it is not allowed on the start edge.
+Warning: Person 'pCar1578' is jammed on edge ':gneJ54_c0', time=1648.00.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1811' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1813' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1814' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1821' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1822' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1823' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1824' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1825' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1826' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1828' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1829' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1832' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1833' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1834' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1837' because it is not allowed on the start edge.
+Warning: Person 'pCar1367' is jammed on edge ':21638509_c0', time=1674.00.
+Warning: Person 'pCar1367' is jammed on edge ':21638509_c0', time=1676.00.
+Warning: Person 'pCar1514' is jammed on edge ':21638509_c0', time=1676.00.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1842' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1844' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1849' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1851' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1853' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1855' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1856' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1857' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1858' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1859' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1861' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1862' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1864' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1865' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1867' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1869' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1870' because it is not allowed on the start edge.
+Warning: Person 'pCar1328' is jammed on edge ':251472921_c0', time=1704.00.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1873' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1874' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1877' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1879' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1880' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1881' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1882' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1887' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1888' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1890' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1892' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1893' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1895' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1897' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1901' because it is not allowed on the start edge.
+Warning: Person 'ped296' is jammed on edge ':26719081_c1', time=1732.00.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1905' because it is not allowed on the start edge.
+Warning: Vehicle 'veh318' ends teleporting on edge 'gneE167', time 1734.00.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1908' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1911' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1912' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1914' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1915' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1916' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1917' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1919' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1921' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1922' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1924' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1926' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1927' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1929' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1930' because it is not allowed on the start edge.
+Warning: Person 'pCar1000' is jammed on edge ':gneJ54_c0', time=1760.00.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1933' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1936' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1937' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1940' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1944' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1945' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1946' because it is not allowed on the start edge.
+Warning: Person 'pCar1709' is jammed on edge ':gneJ54_c0', time=1772.00.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1948' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1949' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1950' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1951' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1952' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1956' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1959' because it is not allowed on the start edge.
+Warning: Person 'pCar742' is jammed on edge ':1642409965_c0', time=1785.00.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1965' because it is not allowed on the start edge.
+Warning: Teleporting vehicle 'truck36'; waited too long (yield), lane='4475856#9_1', time=1790.00.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1966' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1967' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1973' because it is not allowed on the start edge.
+Warning: Teleporting vehicle 'pCar1296_0'; waited too long (jam), lane='4475856#7_1', time=1797.00.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1974' because it is not allowed on the start edge.
+Warning: Teleporting vehicle 'pCar1197_0'; waited too long (jam), lane='4475856#8_1', time=1798.00.
+Warning: Teleporting vehicle 'pCar1122_0'; waited too long (yield), lane='-4476814#0_1', time=1798.00.
+Warning: Vehicle 'pCar1296_0' ends teleporting on edge '4475856#8', time 1798.00.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1978' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1983' because it is not allowed on the start edge.
+Warning: Person 'ped127' is jammed on edge ':26719081_c1', time=1806.00.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1984' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1985' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1986' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1988' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1991' because it is not allowed on the start edge.
+Warning: Teleporting vehicle 'veh633'; waited too long (yield), lane='-4451389#0_1', time=1815.00.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1994' because it is not allowed on the start edge.
+Warning: Teleporting vehicle 'veh236'; waited too long (jam), lane='316573936#0_1', time=1816.00.
+Warning: Vehicle 'veh355' ends teleporting on edge '316573936#0', time 1816.00.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1996' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1997' because it is not allowed on the start edge.
+Warning: Teleporting vehicle 'pCar840_0'; waited too long (jam), lane='4412553_1', time=1820.00.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar1999' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar2000' because it is not allowed on the start edge.
+Warning: Vehicle 'veh236' ends teleporting on edge '4412553', time 1820.00.
+Warning: Vehicle 'veh633' ends teleporting on edge '-4476814#3', time 1820.00.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar2001' because it is not allowed on the start edge.
+Warning: Ignoring vehicle type 'DEFAULT_VEHTYPE' when routing person 'pCar2002' because it is not allowed on the start edge.

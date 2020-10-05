@@ -1,0 +1,10 @@
+2020-08-13 01:28:18.899395
+ 
+Total Sim Time: 206.8986234664917
+Fitness       : 0.55
+
+Total Warnings: 1
+Teleports     : 38
+Collisions    : 0
+
+Warning: Vehicle 'bflow2Red.3' performs emergency braking with decel=-7.00 wished=4.00 severity=1.00, time=2892.00.

@@ -1,0 +1,11 @@
+<configuration>
+	<input>
+		<net-file value="Thanet.net.xml"/>
+		<route-files value="Data1//Sim19C/vehicle2.trip.xml, Data1//Sim19C/pCar.trip.xml, Data1//Sim19C/truck.trip.xml, Data1//Sim19C/lorry.trip.xml, Data1//Sim19C/motorcycle.trip.xml, Data1//Sim19C/pt.rou.xml, Data1//Sim19C/moped.trip.xml, Data1//Sim19C/bike.trip.xml, Data1//Sim19C/ped.trip.xml, Data1//Sim19C/bus.rou.xml"/>
+		<additional-files value="TempData/Add/Thanet.poly.xml, TempData/Add/Thanet.add.xml,  TempData/Add/Parking.add.xml"/>
+	</input>
+	<time>
+		<begin value="0"/>
+		<end value="3600"/>
+	</time>
+</configuration>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 07/31/20 15:59:44 by Eclipse SUMO Version 1.6.0
+<configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/sumoConfiguration.xsd">
+
+    <input>
+        <net-file value="Canterbury.net.xml"/>
+        <route-files value="TempData/Rou/vehicle.trip.xml,TempData/Rou/pCar.trip.xml,TempData/Rou/truck.trip.xml,TempData/Rou/lorry.trip.xml,TempData/Rou/motorcycle.trip.xml,TempData/Rou/pt.rou.xml,TempData/Rou/pt2.rou.xml,TempData/Rou/moped.trip.xml,TempData/Rou/emergency.trip.xml,TempData/Rou/bike.trip.xml"/>
+        <additional-files value="TempData/Add/Canterbury2.poly.xml,TempData/Add/TrainStations.add.xml,TempData/Add/BusStops.add.xml,TempData/Add/Parking.add.xml,TempData/Add/Detectors.add.xml"/>
+    </input>
+
+    <time>
+        <begin value="0"/>
+        <end value="3600"/>
+    </time>
+
+    <processing>
+        <collision.action value="warn"/>
+        <collision.stoptime value="50"/>
+        <collision.mingap-factor value="1"/>
+    </processing>
+
+    <report>
+        <error-log value="TempData/Other/error.txt"/>
+    </report>
+
+</configuration>
+-->
+
+<detector xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/det_e1_file.xsd">
+    <interval begin="0.00" end="3600.00" id="UpperBridgeStreet0" nVehContrib="242" flow="242.00" occupancy="3.41" speed="10.85" harmonicMeanSpeed="10.26" length="5.18" nVehEntered="242"/>
+    <interval begin="0.00" end="3600.00" id="UpperBridgeStreet1" nVehContrib="326" flow="326.00" occupancy="7.22" speed="10.57" harmonicMeanSpeed="8.12" length="5.43" nVehEntered="327"/>
+    <interval begin="0.00" end="3600.00" id="UpperBridgeStreet3" nVehContrib="132" flow="132.00" occupancy="1.60" speed="11.81" harmonicMeanSpeed="11.61" length="5.04" nVehEntered="132"/>
+    <interval begin="0.00" end="3600.00" id="UpperBrigdeStreet4" nVehContrib="260" flow="260.00" occupancy="3.14" speed="11.45" harmonicMeanSpeed="11.27" length="4.89" nVehEntered="261"/>
+</detector>

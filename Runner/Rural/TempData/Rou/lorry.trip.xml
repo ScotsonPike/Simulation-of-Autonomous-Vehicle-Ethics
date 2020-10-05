@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 08/20/20 13:02:01 by Eclipse SUMO duarouter Version 1.6.0
+<configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/duarouterConfiguration.xsd">
+
+    <input>
+        <net-file value="Thanet.net.xml"/>
+        <route-files value="TempData/Rou/lorry.trip.xml"/>
+    </input>
+
+    <output>
+        <output-file value="TempData/Rou/lorry.trip.xml.tmp"/>
+        <write-trips value="true"/>
+    </output>
+
+    <time>
+        <begin value="0"/>
+        <end value="5000"/>
+    </time>
+
+    <report>
+        <no-warnings value="true"/>
+        <ignore-errors value="true"/>
+        <no-step-log value="true"/>
+    </report>
+
+</configuration>
+-->
+
+<routes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/routes_file.xsd">
+    <vType id="trailer_trailer" vClass="trailer"/>
+    <trip id="trailer0" type="trailer_trailer" depart="0.00" from="30744132#3" to="4685302"/>
+    <trip id="trailer1" type="trailer_trailer" depart="100.00" from="-30890523" to="4685712#1"/>
+    <trip id="trailer2" type="trailer_trailer" depart="200.00" from="4590607#4" to="-4685393#1"/>
+    <trip id="trailer3" type="trailer_trailer" depart="300.00" from="-147950009#2" to="68870740#0"/>
+    <trip id="trailer4" type="trailer_trailer" depart="400.00" from="30744190" to="-30485700#1"/>
+    <trip id="trailer6" type="trailer_trailer" depart="600.00" from="146918293" to="52453424#1"/>
+    <trip id="trailer7" type="trailer_trailer" depart="700.00" from="4596549" to="-42969215#0"/>
+    <trip id="trailer8" type="trailer_trailer" depart="800.00" from="4590631#2" to="30858596#0"/>
+    <trip id="trailer9" type="trailer_trailer" depart="900.00" from="30859403#1" to="-4590649#1"/>
+    <trip id="trailer10" type="trailer_trailer" depart="1000.00" from="43998838#0" to="-4685049"/>
+    <trip id="trailer11" type="trailer_trailer" depart="1100.00" from="-146918203#2" to="8149415#0"/>
+    <trip id="trailer12" type="trailer_trailer" depart="1200.00" from="105180652" to="-95416013#0"/>
+    <trip id="trailer13" type="trailer_trailer" depart="1300.00" from="-4686073#3" to="4685946"/>
+    <trip id="trailer14" type="trailer_trailer" depart="1400.00" from="-27675027" to="4592771#4"/>
+    <trip id="trailer15" type="trailer_trailer" depart="1500.00" from="30744142#1" to="-30738923#0"/>
+    <trip id="trailer16" type="trailer_trailer" depart="1600.00" from="30860126#1" to="-30853489#6"/>
+    <trip id="trailer17" type="trailer_trailer" depart="1700.00" from="30890916#0" to="30727266#0"/>
+    <trip id="trailer18" type="trailer_trailer" depart="1800.00" from="-27675074#2" to="30891761#4"/>
+    <trip id="trailer19" type="trailer_trailer" depart="1900.00" from="-4685499#3" to="30195362#2"/>
+    <trip id="trailer20" type="trailer_trailer" depart="2000.00" from="30738921" to="-589090018#2"/>
+    <trip id="trailer21" type="trailer_trailer" depart="2100.00" from="-563958291#4" to="25501825#10"/>
+    <trip id="trailer22" type="trailer_trailer" depart="2200.00" from="-30693108#4" to="-27990257"/>
+    <trip id="trailer23" type="trailer_trailer" depart="2300.00" from="-30195260" to="-158666410"/>
+    <trip id="trailer24" type="trailer_trailer" depart="2400.00" from="-164439572#1" to="30857979#2"/>
+    <trip id="trailer25" type="trailer_trailer" depart="2500.00" from="4685233" to="30857558#0"/>
+    <trip id="trailer26" type="trailer_trailer" depart="2600.00" from="-30859403#1" to="4685769#1"/>
+    <trip id="trailer27" type="trailer_trailer" depart="2700.00" from="589094662#1" to="4684944"/>
+    <trip id="trailer28" type="trailer_trailer" depart="2800.00" from="30891761#1" to="-43998846#0"/>
+    <trip id="trailer29" type="trailer_trailer" depart="2900.00" from="43998853#0" to="4590610#0"/>
+    <trip id="trailer30" type="trailer_trailer" depart="3000.00" from="-27631286#2" to="4590631#2"/>
+    <trip id="trailer31" type="trailer_trailer" depart="3100.00" from="-30890498#3" to="30859403#3"/>
+    <trip id="trailer32" type="trailer_trailer" depart="3200.00" from="-4685097#0" to="52455191#5"/>
+    <trip id="trailer33" type="trailer_trailer" depart="3300.00" from="-30860144" to="-4596547#1"/>
+    <trip id="trailer34" type="trailer_trailer" depart="3400.00" from="167444146#0" to="-82172174#0"/>
+    <trip id="trailer35" type="trailer_trailer" depart="3500.00" from="-4596614#0" to="30744663#0"/>
+    <trip id="trailer36" type="trailer_trailer" depart="3600.00" from="-30693555#2" to="167444149#4"/>
+    <trip id="trailer37" type="trailer_trailer" depart="3700.00" from="589090018#6" to="-30889384#1"/>
+    <trip id="trailer38" type="trailer_trailer" depart="3800.00" from="-167444149#1" to="-30740962"/>
+    <trip id="trailer39" type="trailer_trailer" depart="3900.00" from="19798145#4" to="25501825#11"/>
+    <trip id="trailer40" type="trailer_trailer" depart="4000.00" from="164439572#2" to="4596612"/>
+    <trip id="trailer41" type="trailer_trailer" depart="4100.00" from="4596662#3" to="30706104"/>
+    <trip id="trailer42" type="trailer_trailer" depart="4200.00" from="-30486562" to="-30890736"/>
+    <trip id="trailer43" type="trailer_trailer" depart="4300.00" from="-4596626#6" to="-30744132#7"/>
+    <trip id="trailer44" type="trailer_trailer" depart="4400.00" from="30890516#4" to="-132194839#0"/>
+    <trip id="trailer45" type="trailer_trailer" depart="4500.00" from="30745959#4" to="8149137#2"/>
+    <trip id="trailer46" type="trailer_trailer" depart="4600.00" from="148181280" to="-72150673#2"/>
+    <trip id="trailer47" type="trailer_trailer" depart="4700.00" from="314526059" to="4685783#1"/>
+    <trip id="trailer48" type="trailer_trailer" depart="4800.00" from="-30892949#0" to="-4684934#0"/>
+    <trip id="trailer49" type="trailer_trailer" depart="4900.00" from="30744179#0" to="372945895#8"/>
+</routes>

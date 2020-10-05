@@ -1,0 +1,26 @@
+2020-08-20 12:01:39.802064
+ 
+Total Sim Time: 463.2810802459717
+Fitness       : 0.25
+
+Total Warnings: 17
+Teleports     : 0
+Collisions    : 0
+
+Warning: Vehicle 'pCar599_0' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=1063.00.
+Warning: Vehicle 'minIn.6' performs emergency braking with decel=-7.00 wished=4.00 severity=1.00, time=1075.00.
+Warning: Vehicle 'minIn.10' performs emergency braking with decel=-7.00 wished=4.00 severity=1.00, time=1639.00.
+Warning: Vehicle 'pCar1317_0' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=2035.00.
+Warning: Vehicle 'pCar1304_0' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=2104.00.
+Warning: Vehicle 'minIn.18' performs emergency braking with decel=-7.00 wished=4.00 severity=1.00, time=2461.00.
+Warning: Vehicle 'pCar1520_0' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=2571.00.
+Warning: Vehicle 'truck124' performs emergency braking with decel=-7.00 wished=4.00 severity=1.00, time=2617.00.
+Warning: Vehicle 'pCar1545_0' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=2663.00.
+Warning: Vehicle 'truck153' performs emergency braking with decel=-7.00 wished=4.00 severity=1.00, time=3119.00.
+Warning: Vehicle 'veh2484' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=3157.00.
+Warning: Vehicle 'pCar2060_0' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=3163.00.
+Warning: Vehicle 'minOut.32' performs emergency braking with decel=-7.00 wished=4.00 severity=1.00, time=3409.00.
+Warning: Vehicle 'veh2665' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=3505.00.
+Warning: Vehicle 'minIn.30' performs emergency braking with decel=-7.00 wished=4.00 severity=1.00, time=3507.00.
+Warning: Vehicle 'veh2509' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=3513.00.
+Warning: Vehicle 'truck146' performs emergency braking with decel=-7.00 wished=4.00 severity=1.00, time=3567.00.

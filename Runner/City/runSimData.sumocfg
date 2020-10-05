@@ -1,0 +1,11 @@
+<configuration>
+	<input>
+		<net-file value="Canterbury.net.xml"/>
+		<route-files value="Data1//Sim93C/vehicle.trip.xml, Data1//Sim93C/pCar.trip.xml, Data1//Sim93C/truck.trip.xml, Data1//Sim93C/lorry.trip.xml, Data1//Sim93C/motorcycle.trip.xml, Data1//Sim93C/pt.rou.xml, Data1//Sim93C/pt2.rou.xml, Data1//Sim93C/moped.trip.xml, Data1//Sim93C/bike.trip.xml, Data1//Sim93C/ped.trip.xml"/>
+		<additional-files value="TempData/Add/Canterbury2.poly.xml, TempData/Add/TrainStations.add.xml, TempData/Add/BusStops.add.xml, TempData/Add/Parking.add.xml, TempData/Add/Detectors.add.xml"/>
+	</input>
+	<time>
+		<begin value="0"/>
+		<end value="3600"/>
+	</time>
+</configuration>

@@ -1,0 +1,10 @@
+2020-08-13 02:55:01.220878
+ 
+Total Sim Time: 204.9399287700653
+Fitness       : 0.6
+
+Total Warnings: 1
+Teleports     : 7
+Collisions    : 0
+
+Warning: Vehicle 'truck48' performs emergency braking with decel=-7.00 wished=4.00 severity=1.00, time=1024.00.

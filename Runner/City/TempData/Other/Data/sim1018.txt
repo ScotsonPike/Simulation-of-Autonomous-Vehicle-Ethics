@@ -1,0 +1,26 @@
+2020-08-19 04:30:02.852424
+ 
+Total Sim Time: 312.52087569236755
+Fitness       : 0.43
+
+Total Warnings: 17
+Teleports     : 355
+Collisions    : 12
+
+Warning: Vehicle 'veh127' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=462.00.
+Warning: Vehicle 'pCar756_0' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=849.00.
+Warning: Vehicle 'veh584' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=1277.00.
+Warning: Vehicle 'train_Southeastern:_London_Charing_Cross_-_Ramsgate:0.2' performs emergency braking with decel=-5.00 wished=1.30 severity=1.00, time=1777.00.
+Warning: Vehicle 'pCar1931_0'; collision with vehicle 'pCar1825_0', lane='4355893#8_1', gap=-7.37, time=1812.00 stage=move.
+Warning: Vehicle 'pCar1931_0'; collision with vehicle 'pCar1825_0', lane='4355893#8_1', gap=-6.00, time=1869.00 stage=move.
+Warning: Vehicle 'pCar1931_0'; collision with vehicle 'pCar1825_0', lane='4355893#8_1', gap=-6.00, time=1926.00 stage=move.
+Warning: Vehicle 'pCar1931_0'; collision with vehicle 'pCar1825_0', lane='4355893#8_1', gap=-6.00, time=1983.00 stage=move.
+Warning: Vehicle 'pCar1931_0'; collision with vehicle 'pCar1825_0', lane='4355893#8_1', gap=-6.00, time=2040.00 stage=move.
+Warning: Vehicle 'veh1018' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=3081.00.
+Warning: Vehicle 'pCar3684_0'; collision with vehicle 'pCar2627_0', lane='4355893#8_1', gap=-7.42, time=3366.00 stage=move.
+Warning: Vehicle 'pCar3684_0'; collision with vehicle 'pCar2627_0', lane='4355893#8_1', gap=-6.00, time=3423.00 stage=move.
+Warning: Vehicle 'pCar3684_0'; collision with vehicle 'pCar2627_0', lane='4355893#8_1', gap=-6.00, time=3424.00 stage=move.
+Warning: Vehicle 'pCar3684_0'; collision with vehicle 'pCar2627_0', lane='4355893#8_1', gap=-6.00, time=3480.00 stage=move.
+Warning: Vehicle 'pCar3684_0'; collision with vehicle 'pCar2627_0', lane='4355893#8_1', gap=-6.00, time=3481.00 stage=move.
+Warning: Vehicle 'pCar3684_0'; collision with vehicle 'pCar2627_0', lane='4355893#8_1', gap=-6.00, time=3537.00 stage=move.
+Warning: Vehicle 'pCar3684_0'; collision with vehicle 'pCar2627_0', lane='4355893#8_1', gap=-6.00, time=3538.00 stage=move.

@@ -1,0 +1,45 @@
+2020-08-19 19:21:02.758034
+ 
+Total Sim Time: 444.86259722709656
+Fitness       : 0.5
+
+Total Warnings: 36
+Teleports     : 0
+Collisions    : 0
+
+Warning: Vehicle 'minIn.0' performs emergency braking with decel=-7.00 wished=4.00 severity=1.00, time=558.00.
+Warning: Vehicle 'minIn.2' performs emergency braking with decel=-7.00 wished=4.00 severity=1.00, time=670.00.
+Warning: Vehicle 'minIn.2' performs emergency braking with decel=-7.00 wished=4.00 severity=1.00, time=676.00.
+Warning: Vehicle 'pCar579_0' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=960.00.
+Warning: Vehicle 'minOut.9' performs emergency braking with decel=-7.00 wished=4.00 severity=1.00, time=1083.00.
+Warning: Vehicle 'cantIn.5' performs emergency braking with decel=-7.00 wished=4.00 severity=1.00, time=1273.00.
+Warning: Vehicle 'pCar1077_0' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=1695.00.
+Warning: Vehicle 'cantIn.11' performs emergency braking with decel=-7.00 wished=4.00 severity=1.00, time=1877.00.
+Warning: Vehicle 'veh1476' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=1953.00.
+Warning: Vehicle 'veh1444' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=1971.00.
+Warning: Vehicle 'veh1613' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=2056.00.
+Warning: Vehicle 'trailer20' performs emergency braking with decel=-7.00 wished=4.00 severity=1.00, time=2062.00.
+Warning: Vehicle 'pCar1305_0' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=2203.00.
+Warning: Vehicle 'pCar1430_0' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=2254.00.
+Warning: Vehicle 'veh1774' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=2352.00.
+Warning: Vehicle 'veh1455' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=2409.00.
+Warning: Vehicle 'pCar1495_0' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=2440.00.
+Warning: Vehicle 'veh1469' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=2444.00.
+Warning: Vehicle 'veh1712' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=2561.00.
+Warning: Vehicle 'veh1903' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=2667.00.
+Warning: Vehicle 'pCar1566_0' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=2680.00.
+Warning: Vehicle 'veh2189' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=2751.00.
+Warning: Vehicle 'veh1948' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=2837.00.
+Warning: Vehicle 'veh2238' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=2928.00.
+Warning: Vehicle 'veh2232' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=2949.00.
+Warning: Vehicle 'pCar1943_0' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=2998.00.
+Warning: Vehicle 'veh2404' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=3039.00.
+Warning: Vehicle 'veh2463' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=3116.00.
+Warning: Vehicle 'pCar1841_0' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=3147.00.
+Warning: Vehicle 'veh2491' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=3344.00.
+Warning: Vehicle 'veh2618' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=3386.00.
+Warning: Vehicle 'veh2473' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=3448.00.
+Warning: Vehicle 'veh2158' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=3474.00.
+Warning: Vehicle 'veh2787' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=3494.00.
+Warning: Vehicle 'veh2761' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=3533.00.
+Warning: Vehicle 'pCar2034_0' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=3546.00.

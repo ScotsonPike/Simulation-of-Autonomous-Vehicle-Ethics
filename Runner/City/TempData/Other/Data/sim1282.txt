@@ -1,0 +1,13 @@
+2020-08-20 13:02:31.685184
+ 
+Total Sim Time: 361.9874849319458
+Fitness       : 0.55
+
+Total Warnings: 4
+Teleports     : 3
+Collisions    : 0
+
+Warning: Vehicle 'PinkOut.1' performs emergency braking with decel=-7.00 wished=4.00 severity=1.00, time=1288.00.
+Warning: Vehicle 'veh969' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=1994.00.
+Warning: Vehicle 'veh1278' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=2481.00.
+Warning: Vehicle 'RedIn.3' performs emergency braking with decel=-7.00 wished=4.00 severity=1.00, time=2963.00.

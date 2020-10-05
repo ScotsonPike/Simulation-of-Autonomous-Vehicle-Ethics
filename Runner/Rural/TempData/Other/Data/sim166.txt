@@ -1,0 +1,31 @@
+2020-08-20 11:05:43.451680
+ 
+Total Sim Time: 538.3009035587311
+Fitness       : 0.28
+
+Total Warnings: 22
+Teleports     : 4
+Collisions    : 2
+
+Warning: Vehicle 'pCar339_0' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=887.00.
+Warning: Vehicle 'truck38' performs emergency braking with decel=-7.00 wished=4.00 severity=1.00, time=1063.00.
+Warning: Vehicle 'pCar1111_0' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=1713.00.
+Warning: Vehicle 'pCar1055_0' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=1951.00.
+Warning: Vehicle 'pCar1210_0' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=2002.00.
+Warning: Vehicle 'pCar1255_0' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=2011.00.
+Warning: Vehicle 'pCar1127_0' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=2052.00.
+Warning: Vehicle 'moped55' performs emergency braking with decel=-10.00 wished=7.00 severity=1.00, time=2188.00.
+Warning: Vehicle 'pCar1639_0' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=2566.00.
+Warning: Vehicle 'pCar1670_0' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=2724.00.
+Warning: Vehicle 'veh2126' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=2971.00.
+Warning: Vehicle 'veh2369' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=3015.00.
+Warning: Vehicle 'veh2404' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=3038.00.
+Warning: Vehicle 'minOut.29' performs emergency braking with decel=-7.00 wished=4.00 severity=1.00, time=3086.00.
+Warning: Vehicle 'cantOut.24'; collision with vehicle 'veh2536', lane='-30891751#1_1', gap=-9.64, time=3182.00 stage=move.
+Warning: Vehicle 'pCar1975_0' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=3201.00.
+Warning: Vehicle 'pCar2098_0'; collision with vehicle 'pCar2116_0', lane='147963752#9_2', gap=-0.30, time=3306.00 stage=move.
+Warning: Vehicle 'minOut.32' performs emergency braking with decel=-7.00 wished=4.00 severity=1.00, time=3380.00.
+Warning: Vehicle 'veh2666' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=3436.00.
+Warning: Vehicle 'veh2692' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=3508.00.
+Warning: Vehicle 'veh2718' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=3508.00.
+Warning: Vehicle 'veh2503' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=3585.00.

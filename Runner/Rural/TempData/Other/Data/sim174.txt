@@ -1,0 +1,26 @@
+2020-08-20 12:09:48.674099
+ 
+Total Sim Time: 488.68291211128235
+Fitness       : 0.25
+
+Total Warnings: 17
+Teleports     : 0
+Collisions    : 0
+
+Warning: Vehicle 'minOut.1' performs emergency braking with decel=-7.00 wished=4.00 severity=1.00, time=278.00.
+Warning: Vehicle 'minIn.1' performs emergency braking with decel=-7.00 wished=4.00 severity=1.00, time=567.00.
+Warning: Vehicle 'pCar231_0' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=579.00.
+Warning: Vehicle 'moped33' performs emergency braking with decel=-10.00 wished=7.00 severity=1.00, time=1069.00.
+Warning: Vehicle 'truck49' performs emergency braking with decel=-7.00 wished=4.00 severity=1.00, time=1189.00.
+Warning: Vehicle 'pCar1012_0' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=1619.00.
+Warning: Vehicle 'pCar1208_0' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=1962.00.
+Warning: Vehicle 'pCar1267_0' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=1986.00.
+Warning: Vehicle 'pCar994_0' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=2006.00.
+Warning: Vehicle 'trailer18' performs emergency braking with decel=-7.00 wished=4.00 severity=1.00, time=2017.00.
+Warning: Vehicle 'minOut.19' performs emergency braking with decel=-7.00 wished=4.00 severity=1.00, time=2097.00.
+Warning: Vehicle 'truck96' performs emergency braking with decel=-7.00 wished=4.00 severity=1.00, time=2349.00.
+Warning: Vehicle 'cantOut.25' performs emergency braking with decel=-7.00 wished=4.00 severity=1.00, time=2767.00.
+Warning: Vehicle 'truck106' performs emergency braking with decel=-7.00 wished=4.00 severity=1.00, time=2790.00.
+Warning: Vehicle 'veh2426' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=3115.00.
+Warning: Vehicle 'veh2573' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=3264.00.
+Warning: Vehicle 'minIn.27' performs emergency braking with decel=-7.00 wished=4.00 severity=1.00, time=3375.00.
